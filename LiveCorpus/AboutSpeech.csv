@@ -1,0 +1,1781 @@
+1,﻿,﻿,PUNC,,,,,,,,,PUNC,﻿,PUNC,,1
+2,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S f inan nom sg,,2
+3,@...,@...,PUNC,,,,,,,,,PUNC,@...,PUNC,,3
+4,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,4
+5,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,5
+6,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,,ю,а,н,з,,,V,ЗНАТЬ,V ipf praes sg indic - 1p,,6
+7,.,.,SENT,,,,,,,,,SENT,.,SENT,,7
+,,,,,,,,,,,,,,,,8
+1,Вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,9
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,10
+3,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,11
+4,тебе,ТЫ,SPRO sg 2p - dat,,,е,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - loc,,12
+5,просто,ПРОСТО,PART,,,о,т,с,о,р,п,ADV,ПРОСТО,ADV -,,13
+6,сначала,СНАЧАЛА,ADV -,,,а,л,а,ч,а,н,ADV,СНАЧАЛА,ADV -,,14
+7,скажу,СКАЗАТЬ,V pf fut sg indic - 1p,,,у,ж,а,к,с,,V,СКАЗАТЬ,V pf fut sg indic - 1p,,15
+8,по поводу,по поводу,ZERO,PR,,у,д,о,в,о,п,ZERO,по поводу,ZERO,,16
+9,того,ТОТ,APRO - gen sg plen n -,,,о,г,о,т,,,S,ТО,S n - gen sg,,17
+10,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,18
+11,что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,19
+12,это,ЭТО,PART,,,о,т,э,,,,S,ЭТО,S n - nom sg,,20
+13,видео,ВИДЕО,S n inan nonflex nonflex,,,о,е,д,и,в,,S,ВИДЕО,S n inan nonflex nonflex,,21
+14,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,22
+15,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,23
+16,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,24
+17,оно,ОНО,SPRO sg 3p n nom,,,о,н,о,,,,SPRO,ОНО,SPRO sg 3p n nom,,25
+18,записывается,ЗАПИСЫВАТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,а,в,V,ЗАПИСЫВАТЬСЯ,V ipf praes sg indic - 3p,,26
+19,.,.,SENT,,,,,,,,,SENT,.,SENT,,27
+,,,,,,,,,,,,,,,,28
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,29
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,30
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,31
+4,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,32
+5,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX,,33
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,34
+7,,,_,,,,,,,,,,,_,8,35
+8,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX,,36
+9,,,_,,,,,,,,,,,_,8,37
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,38
+11,Смеётся,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,ё,е,м,V,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,39
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,40
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,41
+14,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,42
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,43
+16,.,.,SENT,,,,,,,,,SENT,.,SENT,,44
+,,,,,,,,,,,,,,,,45
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,46
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,47
+3,аааа,NONLEX,NONLEX,,,а,а,а,а,,,S,АААА,S f inan nonflex nonflex,,48
+4,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,49
+5,будет,БЫТЬ,V ipf fut sg indic - 3p,,,т,е,д,у,б,,V,БЫТЬ,V ipf praes sg indic - 3p,,50
+6,выкладываться,ВЫКЛАДЫВАТЬСЯ,V ipf - - inf - -,,,я,с,ь,т,а,в,V,ВЫКЛАДЫВАТЬСЯ,V ipf - - inf - -,,51
+7,в,В,PR,,,в,,,,,,PR,В,PR,,52
+8,корпус,КОРПУС,S m inan acc sg,,,с,у,п,р,о,к,S,КОРПУС,S m inan acc sg,,53
+9,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,54
+10,обрабатываться...,ОБРАБАТЫВАТЬСЯ...,V ipf - - inf - -,,,,,,я,с,ь,V,ОБРАБАТЫВАТЬСЯ...,V ipf - - inf - -,,55
+11,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,56
+12,согласен,СОГЛАСНЫЙ,A - - sg brev m -,PRAEDIC,,н,е,с,а,л,г,A,СОГЛАСНЫЙ,A - - sg brev m -,,57
+13,с,С,PR,,,с,,,,,,PR,С,PR,,58
+14,этим,ЭТО,SPRO n - dat sg,,,м,и,т,э,,,S,ЭТО,S n - ins sg,,59
+15,?,?,SENT,,,,,,,,,SENT,?,SENT,,60
+,,,,,,,,,,,,,,,,61
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,62
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,63
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,64
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,65
+5,да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,66
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,67
+,,,,,,,,,,,,,,,,68
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,69
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,70
+3,Отлично,ОТЛИЧНО,PRAEDIC,,,о,н,ч,и,л,т,ADV,ОТЛИЧНО,ADV -,,71
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,72
+,,,,,,,,,,,,,,,,73
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,74
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,75
+3,у,У,PR,,,у,,,,,,PR,У,PR,,76
+4,тебя,ТЫ,SPRO sg 2p - gen,,,я,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - acc,,77
+5,нет,НЕТ,PRAEDIC,,,т,е,н,,,,ADV,НЕТ,ADV -,,78
+6,выбора,ВЫБОР,S m inan gen sg,,,а,р,о,б,ы,в,S,ВЫБОР,S m inan gen sg,,79
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,80
+8,иначе,ИНАЧЕ,CONJ,,,е,ч,а,н,и,,CONJ,ИНАЧЕ,CONJ,,81
+9,б,Б,PART,,,б,,,,,,PART,Б,PART,,82
+10,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,83
+11,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,84
+12,снимали,СНИМАТЬ,V ipf praet pl indic - -,,,и,л,а,м,и,н,V,СНИМАТЬ,V ipf praet pl indic - -,,85
+13,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,86
+14,видео,ВИДЕО,S n inan nonflex nonflex,,,о,е,д,и,в,,S,ВИДЕО,S n inan nonflex nonflex,,87
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,88
+16,как бы,как бы,INTJ,,,ы,б,,к,а,к,-,как бы,-,,89
+17,.,.,SENT,,,,,,,,,SENT,.,SENT,,90
+,,,,,,,,,,,,,,,,91
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,92
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,93
+3,Вот,ВОТ,PARENTH,,,т,о,в,,,,PART,ВОТ,PART,,94
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,95
+,,,,,,,,,,,,,,,,96
+1,Вообще,ВООБЩЕ,PARENTH,,,е,щ,б,о,о,в,ADV,ВООБЩЕ,ADV -,,97
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,98
+3,блин,БЛИН,INTJ,,,н,и,л,б,,,S,БЛИН,S m inan nom sg,,99
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,100
+5,тебе,ТЫ,SPRO sg 2p - dat,,,е,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - loc,,101
+6,нормально,НОРМАЛЬНО,ADV -,,,о,н,ь,л,а,м,ADV,НОРМАЛЬНО,ADV -,,102
+7,говорить,ГОВОРИТЬ,V ipf - - inf - -,,,ь,т,и,р,о,в,V,ГОВОРИТЬ,V ipf - - inf - -,,103
+8,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,104
+9,на,НА,PR,,,а,н,,,,,PR,НА,PR,,105
+10,видео,ВИДЕО,S n inan nonflex nonflex,,,о,е,д,и,в,,S,ВИДЕО,S n inan nonflex nonflex,,106
+11,?,?,SENT,,,,,,,,,SENT,?,SENT,,107
+,,,,,,,,,,,,,,,,108
+1,Типа,ТИПА,PART,PARENTH,,а,п,и,т,,,S,ТИП,S m inan gen sg,,109
+2,сильно,СИЛЬНО,ADV -,,,о,н,ь,л,и,с,ADV,СИЛЬНО,ADV -,,110
+3,же,ЖЕ,PART,,,е,ж,,,,,PART,ЖЕ,PART,,111
+4,режет,РЕЗАТЬ,V ipf praes sg indic - 3p,,,т,е,ж,е,р,,V,РЕЗАТЬ,V ipf praes sg indic - 3p,,112
+5,...,...,SENT,,,,,,,,,SENT,...,SENT,,113
+,,,,,,,,,,,,,,,,114
+1,Сильно,СИЛЬНО,ADV -,,,о,н,ь,л,и,с,ADV,СИЛЬНО,ADV -,,115
+2,различается,РАЗЛИЧАТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,а,ч,V,РАЗЛИЧАТЬСЯ,V ipf praes sg indic - 3p,,116
+3,.,.,SENT,,,,,,,,,SENT,.,SENT,,117
+,,,,,,,,,,,,,,,,118
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,119
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,120
+3,Что,ЧТО,SPRO sg - - nom,,,о,т,ч,,,,S,ЧТО,S n - nom sg,,121
+4,?,?,SENT,,,,,,,,,SENT,?,SENT,,122
+,,,,,,,,,,,,,,,,123
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,124
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,125
+3,по сравнению с,по сравнению с,ZERO,PR,,с,,ю,и,н,е,ZERO,по сравнению с,ZERO,,126
+4,обычной,ОБЫЧНЫЙ,A - ins sg plen f -,,,й,о,н,ч,ы,б,A,ОБЫЧНЫЙ,A - ins sg plen f -,,127
+5,речью,РЕЧЬ,S f inan ins sg,,,ю,ь,ч,е,р,,S,РЕЧЬ,S f inan ins sg,,128
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,129
+7,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,130
+8,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,131
+9,знаешь,ЗНАТЬ,V ipf praes sg indic - 2p,,,ь,ш,е,а,н,з,V,ЗНАТЬ,V ipf praes sg indic - 2p,,132
+10,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,133
+11,что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,134
+12,тебя,ТЫ,SPRO sg 2p - acc,,,я,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - acc,,135
+13,записывают,ЗАПИСЫВАТЬ,V ipf praes pl indic - 3p,,,т,ю,а,в,ы,с,V,ЗАПИСЫВАТЬ,V ipf praes pl indic - 3p,,136
+14,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,137
+15,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,138
+16,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,139
+17,...,...,SENT,,,,,,,,,SENT,...,SENT,,140
+,,,,,,,,,,,,,,,,141
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,142
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,143
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,144
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,145
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,146
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,147
+7,,,_,,,,,,,,,,,_,8,148
+8,Не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,149
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,150
+10,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,151
+11,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,152
+12,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,153
+13,,,_,,,,,,,,,,,_,12,154
+14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,155
+15,Нет,НЕТ,PART,,,т,е,н,,,,PART,НЕТ,PART,,156
+16,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,157
+17,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,158
+18,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,159
+19,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,160
+20,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,161
+21,чувак,ЧУВАК,S m anim voc sg,new,,к,а,в,у,ч,,S,ЧУВАК,S m anim nom sg,,162
+22,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,163
+23,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,164
+24,абсолютно...,АБСОЛЮТНО,ADV -,,,,,,о,н,т,ADV,АБСОЛЮТНО...,ADV -,,165
+25,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,166
+26,абсолютно,АБСОЛЮТНО,ADV -,,,о,н,т,ю,л,о,ADV,АБСОЛЮТНО,ADV -,,167
+27,насрать,НАСРАТЬ,V pf - - inf - -,,,ь,т,а,р,с,а,V,НАСРАТЬ,V pf - - inf - -,,168
+28,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,169
+29,просто,ПРОСТО,CONJ,,,о,т,с,о,р,п,PART,ПРОСТО,PART,,170
+30,когда,КОГДА,CONJ,,,а,д,г,о,к,,CONJ,КОГДА,CONJ,,171
+31,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,172
+32,с,С,PR,,,с,,,,,,PR,С,PR,,173
+33,тобой,ТЫ,SPRO sg 2p - ins,,,й,о,б,о,т,,SPRO,ТЫ,SPRO sg 2p - ins,,174
+34,вошли,ВОЙТИ,V pf praet pl indic - -,,,и,л,ш,о,в,,V,ВОЙТИ,V pf praet pl indic - -,,175
+35,в,В,PR,,,в,,,,,,PR,В,PR,,176
+36,диалог,ДИАЛОГ,S m inan acc sg,,,г,о,л,а,и,д,S,ДИАЛОГ,S m inan acc sg,,177
+37,.,.,SENT,,,,,,,,,SENT,.,SENT,,178
+,,,,,,,,,,,,,,,,179
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,180
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,181
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,182
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,183
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,184
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,185
+7,,,_,,,,,,,,,,,_,8,186
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,187
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,188
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,189
+11,,,_,,,,,,,,,,,_,10,190
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,191
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,192
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,193
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,194
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,195
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,196
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,197
+,,,,,,,,,,,,,,,,198
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,199
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,200
+3,у,У,PR,,,у,,,,,,PR,У,PR,,201
+4,меня,Я,SPRO sg 1p - gen,,,я,н,е,м,,,SPRO,Я,SPRO sg 1p - acc,,202
+5,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,203
+6,абсолютно,АБСОЛЮТНО,ADV -,,,о,н,т,ю,л,о,ADV,АБСОЛЮТНО,ADV -,,204
+7,никаких,НИКАКОЙ,A - gen pl plen - -,,,х,и,к,а,к,и,A,НИКАКОЙ,A - gen pl plen - -,,205
+8,с,С,PR,,,с,,,,,,PR,С,PR,,206
+9,этим,ЭТО,SPRO n - dat sg,,,м,и,т,э,,,A,ЭТОТ,A - dat pl plen - -,,207
+10,проблем,ПРОБЛЕМА,S f inan gen pl,,,м,е,л,б,о,р,S,ПРОБЛЕМА,S f inan gen pl,,208
+11,нет,НЕТ,PRAEDIC,,,т,е,н,,,,ADV,НЕТ,ADV -,,209
+12,.,.,SENT,,,,,,,,,SENT,.,SENT,,210
+,,,,,,,,,,,,,,,,211
+1,Если,ЕСЛИ,CONJ,,,и,л,с,е,,,CONJ,ЕСЛИ,CONJ,,212
+2,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,213
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,214
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,215
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,216
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,217
+7,,,_,,,,,,,,,,,_,8,218
+8,щас,СЕЙЧАС,ADV -,distort,,с,а,щ,,,,ADV,ЩАС,ADV -,,219
+9,,,_,,,,,,,,,,,_,8,220
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,221
+11,сейчас,СЕЙЧАС,ADV -,,,с,а,ч,й,е,с,ADV,СЕЙЧАС,ADV -,,222
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,223
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,224
+14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,225
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,226
+16,будешь,БЫТЬ,V ipf fut sg indic - 2p,,,ь,ш,е,д,у,б,V,БЫТЬ,V ipf praes sg indic - 2p,,227
+17,со,СО,PR,,,о,с,,,,,PR,СО,PR,,228
+18,мной,Я,SPRO sg 1p - ins,,,й,о,н,м,,,SPRO,Я,SPRO sg 1p - ins,,229
+19,говорить,ГОВОРИТЬ,V ipf - - inf - -,,,ь,т,и,р,о,в,V,ГОВОРИТЬ,V ipf - - inf - -,,230
+20,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,231
+21,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,232
+22,сам,САМ,APRO - nom sg plen m anim,,,м,а,с,,,,A,САМ,A - acc sg plen m inan,,233
+23,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,234
+24,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,235
+25,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,236
+26,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,237
+27,,,_,,,,,,,,,,,_,28,238
+28,щас,СЕЙЧАС,ADV -,distort,,с,а,щ,,,,ADV,ЩАС,ADV -,,239
+29,,,_,,,,,,,,,,,_,28,240
+30,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,241
+31,сейчас,СЕЙЧАС,ADV -,,,с,а,ч,й,е,с,ADV,СЕЙЧАС,ADV -,,242
+32,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,243
+33,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,244
+34,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,245
+35,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,246
+36,втянешься,ВТЯНУТЬСЯ,V pf fut sg indic - 2p,,,я,с,ь,ш,е,н,V,ВТЯНУТЬСЯ,V pf fut sg indic - 2p,,247
+37,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,248
+38,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,249
+39,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,250
+40,перестанешь,ПЕРЕСТАТЬ,V pf fut sg indic - 2p,,,ь,ш,е,н,а,т,V,ПЕРЕСТАТЬ,V pf fut sg indic - 2p,,251
+41,замечать,ЗАМЕЧАТЬ,V ipf - - inf - -,,,ь,т,а,ч,е,м,V,ЗАМЕЧАТЬ,V ipf - - inf - -,,252
+42,камеру,КАМЕРА,S f inan acc sg,,,у,р,е,м,а,к,S,КАМЕРА,S f inan acc sg,,253
+43,.,.,SENT,,,,,,,,,SENT,.,SENT,,254
+,,,,,,,,,,,,,,,,255
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,256
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,257
+3,Нуууу,НУ,INTJ,distort,,у,у,у,у,н,,S,НУУУУ,S m anim nonflex nonflex,,258
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,259
+5,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,260
+6,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,,ю,а,н,з,,,V,ЗНАТЬ,V ipf praes sg indic - 1p,,261
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,262
+8,сейчас,СЕЙЧАС,ADV -,,,с,а,ч,й,е,с,ADV,СЕЙЧАС,ADV -,,263
+9,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,264
+10,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,265
+11,говоришь,ГОВОРИТЬ,V ipf praes sg indic - 2p,,,ь,ш,и,р,о,в,V,ГОВОРИТЬ,V ipf praes sg indic - 2p,,266
+12,так,ТАК,ADVPRO -,,,к,а,т,,,,ADV,ТАК,ADV -,,267
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,268
+14,как,КАК,CONJ,слитно,,к,а,к,,,,ADV,КАК,ADV -,,269
+15,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,270
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,271
+17,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,272
+18,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,273
+19,,,_,,,,,,,,,,,_,20,274
+20,будты,БУДТО ТЫ,,distort,,ы,т,д,у,б,,S,БУДТ,S m inan acc pl,,275
+21,,,_,,,,,,,,,,,_,20,276
+22,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,277
+23,будто,БУДТО,CONJ,слитно,,о,т,д,у,б,,CONJ,БУДТО,CONJ,,278
+24,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,279
+25,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,280
+26,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,281
+27,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,282
+28,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,283
+29,в,В,PR,,,в,,,,,,PR,В,PR,,284
+30,телевизоре,ТЕЛЕВИЗОР,S m inan loc sg,,,е,р,о,з,и,в,S,ТЕЛЕВИЗОР,S m inan loc sg,,285
+31,сидишь,СИДЕТЬ,V ipf praes sg indic - 2p,,,ь,ш,и,д,и,с,V,СИДЕТЬ,V ipf praes sg indic - 2p,,286
+32,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,287
+33,что-то,ЧТО-ТО,SPRO sg - - acc,,,о,т,,о,т,ч,S,ЧТО-ТО,S n - nom sg,,288
+34,умное,УМНЫЙ,A - acc sg plen n -,,,е,о,н,м,у,,A,УМНЫЙ,A - nom sg plen n -,,289
+35,про,ПРО,PR,,,о,р,п,,,,PR,ПРО,PR,,290
+36,политику,ПОЛИТИКА,S f inan acc sg,,,у,к,и,т,и,л,S,ПОЛИТИКА,S f inan acc sg,,291
+37,вещаешь,ВЕЩАТЬ,V ipf praes sg indic - 2p,,,ь,ш,е,а,щ,е,V,ВЕЩАТЬ,V ipf praes sg indic - 2p,,292
+38,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,293
+39,типа,ТИПА,PART,PARENTH,,а,п,и,т,,,S,ТИП,S m inan gen sg,,294
+40,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,295
+41,знаешь,ЗНАТЬ,PARENTH,,,ь,ш,е,а,н,з,V,ЗНАТЬ,V ipf praes sg indic - 2p,,296
+42,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,297
+43,с,С,PR,,,с,,,,,,PR,С,PR,,298
+44,расстановкой,РАССТАНОВКА,S f inan ins sg,,,й,о,к,в,о,н,S,РАССТАНОВКА,S f inan ins sg,,299
+45,с,С,PR,,,с,,,,,,PR,С,PR,,300
+46,такой,ТАКОЙ,APRO - dat sg plen f inan,,,й,о,к,а,т,,A,ТАКОЙ,A - acc sg plen m inan,,301
+47,...,...,SENT,,,,,,,,,SENT,...,SENT,,302
+,,,,,,,,,,,,,,,,303
+1,Мммм,NONLEX,INTJ,,,м,м,м,м,,,NONLEX,ММММ,NONLEX,,304
+2,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,305
+3,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,,ю,а,н,з,,,V,ЗНАТЬ,V ipf praes sg indic - 1p,,306
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,307
+5,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,308
+6,кажется,КАЗАТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,ж,а,V,КАЗАТЬСЯ,V ipf praes sg indic - 3p,,309
+7,.,.,SENT,,,,,,,,,SENT,.,SENT,,310
+,,,,,,,,,,,,,,,,311
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,312
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,313
+3,Возможно,ВОЗМОЖНО,PARENTH,,,о,н,ж,о,м,з,ADV,ВОЗМОЖНО,ADV -,,314
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,315
+5,возможно,ВОЗМОЖНО,PARENTH,,,о,н,ж,о,м,з,ADV,ВОЗМОЖНО,ADV -,,316
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,317
+,,,,,,,,,,,,,,,,318
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,319
+2,вообще,ВООБЩЕ,PARENTH,,,е,щ,б,о,о,в,ADV,ВООБЩЕ,ADV -,,320
+3,.,.,SENT,,,,,,,,,SENT,.,SENT,,321
+,,,,,,,,,,,,,,,,322
+1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,323
+2,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,324
+3,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX,,325
+4,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,326
+5,,,_,,,,,,,,,,,_,6,327
+6,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX,,328
+7,,,_,,,,,,,,,,,_,6,329
+8,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,330
+9,Смеются,СМЕЯТЬСЯ,V ipf praes pl indic - 3p,,,я,с,т,ю,е,м,V,СМЕЯТЬСЯ,V ipf praes pl indic - 3p,,331
+10,одновременно,ОДНОВРЕМЕННО,ADV -,,,о,н,н,е,м,е,ADV,ОДНОВРЕМЕННО,ADV -,,332
+11,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,333
+12,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,334
+13,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,335
+14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,336
+15,.,.,SENT,,,,,,,,,SENT,.,SENT,,337
+,,,,,,,,,,,,,,,,338
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,339
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,340
+3,Возможно,ВОЗМОЖНО,PARENTH,,,о,н,ж,о,м,з,ADV,ВОЗМОЖНО,ADV -,,341
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,342
+5,блять,БЛЯТЬ,INTJ,,,ь,т,я,л,б,,V,БЛЯТЬ,V ipf - - inf - -,,343
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,344
+,,,,,,,,,,,,,,,,345
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,346
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,347
+3,Не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,348
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,349
+5,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,350
+6,блять,БЛЯТЬ,INTJ,,,ь,т,я,л,б,,V,БЛЯТЬ,V ipf - - inf - -,,351
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,352
+8,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,353
+9,тебе,ТЫ,SPRO sg 2p - dat,,,е,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - loc,,354
+10,говорю,ГОВОРИТЬ,V ipf praes sg indic - 1p,,,ю,р,о,в,о,г,V,ГОВОРИТЬ,V ipf praes sg indic - 1p,,355
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,356
+12,в,В,PR,слитно: ADV -,,в,,,,,,PR,В,PR,,357
+13,принципе,ПРИНЦИП,S m inan loc sg,слитно: ADV -,,е,п,и,ц,н,и,S,ПРИНЦИП,S m inan loc sg,,358
+14,это...,ЭТОТ,SPRO n - nom sg,,,,,,о,т,э,S,ЭТО...,S m inan gen sg,,359
+15,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,360
+16,была,БЫТЬ,V ipf praet sg indic f -,,,а,л,ы,б,,,V,БЫТЬ,V ipf praet sg indic f -,,361
+17,изначально,ИЗНАЧАЛЬНО,ADV -,,,о,н,ь,л,а,ч,ADV,ИЗНАЧАЛЬНО,ADV -,,362
+18,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,363
+19,очень...,ОЧЕНЬ...,ADV -,,,,,,ь,н,е,ADV,ОЧЕНЬ...,ADV -,,364
+20,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,365
+21,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,366
+22,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,367
+23,очень,ОЧЕНЬ,ADV -,,,ь,н,е,ч,о,,ADV,ОЧЕНЬ,ADV -,,368
+24,...,...,SENT,,,,,,,,,SENT,...,SENT,,369
+,,,,,,,,,,,,,,,,370
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,371
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,372
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,373
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,374
+5,извини,ИЗВИНИТЬ,V pf - sg imper - 2p,,,и,н,и,в,з,и,V,ИЗВИНИТЬ,V pf - sg imper - 2p,,375
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,376
+,,,,,,,,,,,,,,,,377
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,378
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,379
+3,А..,А..,CONJ,,,,,а,,,,CONJ,А..,CONJ,,380
+4,обойду,ОБОЙТИ,V pf fut sg indic - 1p,,,у,д,й,о,б,о,V,ОБОЙТИ,V pf fut sg indic - 1p,,381
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,382
+6,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,383
+7,была,БЫТЬ,V ipf praet sg indic f -,,,а,л,ы,б,,,V,БЫТЬ,V ipf praet sg indic f -,,384
+8,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,385
+9,очень,ОЧЕНЬ,ADV -,,,ь,н,е,ч,о,,ADV,ОЧЕНЬ,ADV -,,386
+10,практичная,ПРАКТИЧНЫЙ,A - nom sg plen f -,,,я,а,н,ч,и,т,A,ПРАКТИЧНЫЙ,A - nom sg plen f -,,387
+11,идея,ИДЕЯ,S f inan nom sg,,,я,е,д,и,,,S,ИДЕЯ,S f inan nom sg,,388
+12,.,.,SENT,,,,,,,,,SENT,.,SENT,,389
+,,,,,,,,,,,,,,,,390
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,391
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,392
+3,Предупреждать,ПРЕДУПРЕЖДАТЬ,V ipf - - inf - -,,,ь,т,а,д,ж,е,V,ПРЕДУПРЕЖДАТЬ,V ipf - - inf - -,,393
+4,тебя,ТЫ,SPRO sg 2p - acc,,,я,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - acc,,394
+5,заранее,ЗАРАНЕЕ,ADV -,,,е,е,н,а,р,а,ADV,ЗАРАНЕЕ,ADV -,,395
+6,?,?,SENT,,,,,,,,,SENT,?,SENT,,396
+,,,,,,,,,,,,,,,,397
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,398
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,399
+3,Вообще,ВООБЩЕ,PARENTH,,,е,щ,б,о,о,в,ADV,ВООБЩЕ,ADV -,,400
+4,в,В,PR,слитно: ADV -,,в,,,,,,PR,В,PR,,401
+5,принципе,ПРИНЦИП,S m inan loc sg,слитно: ADV -,,е,п,и,ц,н,и,S,ПРИНЦИП,S m inan loc sg,,402
+6,садить,САДИТЬ,V ipf - - inf - -,anom,,ь,т,и,д,а,с,V,САДИТЬ,V ipf - - inf - -,,403
+7,человека,ЧЕЛОВЕК,S m anim acc sg,,,а,к,е,в,о,л,S,ЧЕЛОВЕК,S m anim acc sg,,404
+8,для,ДЛЯ,PR,,,я,л,д,,,,PR,ДЛЯ,PR,,405
+9,анализа,АНАЛИЗ,S m inan gen sg,,,а,з,и,л,а,н,S,АНАЛИЗ,S m inan gen sg,,406
+10,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,407
+11,снимать,СНИМАТЬ,V ipf - - inf - -,,,ь,т,а,м,и,н,V,СНИМАТЬ,V ipf - - inf - -,,408
+12,его,ОН,SPRO sg 3p m acc,,,о,г,е,,,,SPRO,ОН,SPRO sg 3p m acc,,409
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,410
+14,потому что,потому что,ZERO,CONJ,,о,т,ч,,у,м,ZERO,потому что,ZERO,,411
+15,когда,КОГДА,CONJ,,,а,д,г,о,к,,CONJ,КОГДА,CONJ,,412
+16,человек,ЧЕЛОВЕК,S m anim nom sg,,,к,е,в,о,л,е,S,ЧЕЛОВЕК,S m anim nom sg,,413
+17,садится,САДИТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,и,д,а,V,САДИТЬСЯ,V ipf praes sg indic - 3p,,414
+18,перед,ПЕРЕД,PR,,,д,е,р,е,п,,PR,ПЕРЕД,PR,,415
+19,камерой,КАМЕРА,S f inan ins sg,,,й,о,р,е,м,а,S,КАМЕРА,S f inan ins sg,,416
+20,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,417
+21,его,ОН,SPRO sg 3p m acc,,,о,г,е,,,,SPRO,ОН,SPRO sg 3p m acc,,418
+22,уже,УЖЕ,ADV -,,,е,ж,у,,,,ADV,УЖЕ,ADV -,,419
+23,анализировать,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,,ь,т,а,в,о,р,V,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,420
+24,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,421
+25,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,422
+26,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,423
+27,его,ОН,SPRO sg 3p m acc,,,о,г,е,,,,SPRO,ОН,SPRO sg 3p m acc,,424
+28,можно,МОЖНО,PRAEDIC,,,о,н,ж,о,м,,ADV,МОЖНО,ADV -,,425
+29,анализировать,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,,ь,т,а,в,о,р,V,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,426
+30,в,В,PR,,,в,,,,,,PR,В,PR,,427
+31,контексте,КОНТЕКСТ,S m inan loc sg,,,е,т,с,к,е,т,S,КОНТЕКСТ,S m inan loc sg,,428
+32,того,ТОТ,APRO - gen sg plen n -,,,о,г,о,т,,,S,ТО,S n - gen sg,,429
+33,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,430
+34,что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,431
+35,он,ОН,SPRO sg 3p m nom,,,н,о,,,,,SPRO,ОН,SPRO sg 3p m nom,,432
+36,сидит,СИДЕТЬ,V ipf praes sg indic - 3p,,,т,и,д,и,с,,V,СИДЕТЬ,V ipf praes sg indic - 3p,,433
+37,перед,ПЕРЕД,PR,,,д,е,р,е,п,,PR,ПЕРЕД,PR,,434
+38,камерой,КАМЕРА,S f inan ins sg,,,й,о,р,е,м,а,S,КАМЕРА,S f inan ins sg,,435
+39,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,436
+40,понимает,ПОНИМАТЬ,V ipf praes sg indic - 3p,,,т,е,а,м,и,н,V,ПОНИМАТЬ,V ipf praes sg indic - 3p,,437
+41,.,.,SENT,,,,,,,,,SENT,.,SENT,,438
+,,,,,,,,,,,,,,,,439
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,440
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,441
+3,Да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,442
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,443
+5,конечно,КОНЕЧНО,PRAEDIC,,,о,н,ч,е,н,о,ADV,КОНЕЧНО,ADV -,,444
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,445
+,,,,,,,,,,,,,,,,446
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,447
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,448
+3,Что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,449
+4,он,ОН,SPRO sg 3p m nom,,,н,о,,,,,SPRO,ОН,SPRO sg 3p m nom,,450
+5,сидит,СИДЕТЬ,V ipf praes sg indic - 3p,,,т,и,д,и,с,,V,СИДЕТЬ,V ipf praes sg indic - 3p,,451
+6,перед,ПЕРЕД,PR,,,д,е,р,е,п,,PR,ПЕРЕД,PR,,452
+7,камерой,КАМЕРА,S f inan ins sg,,,й,о,р,е,м,а,S,КАМЕРА,S f inan ins sg,,453
+8,.,.,SENT,,,,,,,,,SENT,.,SENT,,454
+,,,,,,,,,,,,,,,,455
+1,Но,НО,CONJ,,,о,н,,,,,CONJ,НО,CONJ,,456
+2,в,В,PR,,,в,,,,,,PR,В,PR,,457
+3,контек...,КОНТЕК...,NONLEX,,,,,,к,е,т,ADV,КОНТЕК...,ADV -,,458
+4,как бы,как бы,PARENTH,,,ы,б,,к,а,к,-,как бы,-,,459
+5,если,ЕСЛИ,CONJ,,,и,л,с,е,,,CONJ,ЕСЛИ,CONJ,,460
+6,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,461
+7,хотим,ХОТЕТЬ,V ipf praes pl indic - 1p,,,м,и,т,о,х,,V,ХОТЕТЬ,V ipf praes pl indic - 1p,,462
+8,проанализировать,ПРОАНАЛИЗИРОВАТЬ,V pf - - inf - -,,,ь,т,а,в,о,р,V,ПРОАНАЛИЗИРОВАТЬ,V pf - - inf - -,,463
+9,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,464
+10,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,465
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,466
+12,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,467
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,468
+14,какой,КАКОЙ,APRO - nom sg plen m -,,,й,о,к,а,к,,A,КАКОЙ,A - nom sg plen m -,,469
+15,в,В,PR,слитно: ADV -,,в,,,,,,PR,В,PR,,470
+16,итоге,ИТОГ,S m inan loc sg,слитно: ADV -,,е,г,о,т,и,,S,ИТОГ,S m inan loc sg,,471
+17,должен,ДОЛЖНЫЙ,A - - sg brev m -,,,н,е,ж,л,о,д,A,ДОЛЖНЫЙ,A - - sg brev m -,,472
+18,сделать,СДЕЛАТЬ,V pf - - inf - -,,,ь,т,а,л,е,д,V,СДЕЛАТЬ,V pf - - inf - -,,473
+19,вывод,ВЫВОД,S m inan acc sg,,,д,о,в,ы,в,,S,ВЫВОД,S m inan acc sg,,474
+20,?,?,SENT,,,,,,,,,SENT,?,SENT,,475
+,,,,,,,,,,,,,,,,476
+1,Ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,477
+2,должен,ДОЛЖНЫЙ,A - - sg brev m -,,,н,е,ж,л,о,д,A,ДОЛЖНЫЙ,A - - sg brev m -,,478
+3,подметить,ПОДМЕТИТЬ,V pf - - inf - -,,,ь,т,и,т,е,м,V,ПОДМЕТИТЬ,V pf - - inf - -,,479
+4,какие-то,КАКОЙ-ТО,APRO - acc pl plen - -,,,о,т,,е,и,к,A,КАКОЙ-ТО,A - nom pl plen - -,,480
+5,способы,СПОСОБ,S m inan acc pl,,,ы,б,о,с,о,п,S,СПОСОБ,S m inan nom pl,,481
+6,общения,ОБЩЕНИЕ,S n inan gen sg,,,я,и,н,е,щ,б,S,ОБЩЕНИЕ,S n inan gen sg,,482
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,483
+8,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,484
+9,должен,ДОЛЖНЫЙ,A - - sg brev m -,,,н,е,ж,л,о,д,A,ДОЛЖНЫЙ,A - - sg brev m -,,485
+10,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,486
+11,конкретного,КОНКРЕТНЫЙ,A - gen sg plen m -,,,о,г,о,н,т,е,A,КОНКРЕТНЫЙ,A - gen sg plen m -,,487
+12,человека,ЧЕЛОВЕК,S m anim acc sg,,,а,к,е,в,о,л,S,ЧЕЛОВЕК,S m anim gen sg,,488
+13,разобрать,РАЗОБРАТЬ,V pf - - inf - -,,,ь,т,а,р,б,о,V,РАЗОБРАТЬ,V pf - - inf - -,,489
+14,психологически,ПСИХОЛОГИЧЕСКИ,ADV -,,,и,к,с,е,ч,и,ADV,ПСИХОЛОГИЧЕСКИ,ADV -,,490
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,491
+16,именно,ИМЕННО,PART,,,о,н,н,е,м,и,PART,ИМЕННО,PART,,492
+17,человека,ЧЕЛОВЕК,S m anim acc sg,,,а,к,е,в,о,л,S,ЧЕЛОВЕК,S m anim acc sg,,493
+18,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,494
+19,да,ДА,PART,,,а,д,,,,,CONJ,ДА,CONJ,,495
+20,.,.,SENT,,,,,,,,,SENT,.,SENT,,496
+,,,,,,,,,,,,,,,,497
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,498
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,499
+3,Да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,500
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,501
+5,конечно,КОНЕЧНО,PRAEDIC,,,о,н,ч,е,н,о,ADV,КОНЕЧНО,ADV -,,502
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,503
+7,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,504
+8,разбирается,РАЗБИРАТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,а,р,V,РАЗБИРАТЬСЯ,V ipf praes sg indic - 3p,,505
+9,всё,ВСЕ,CONJ,слитно,,ё,с,в,,,,ADV,ВСЕ,ADV -,,506
+10,же,ЖЕ,CONJ,слитно,,е,ж,,,,,PART,ЖЕ,PART,,507
+11,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,508
+12,язык,ЯЗЫК,S m inan nom sg,,,к,ы,з,я,,,S,ЯЗЫК,S m inan nom sg,,509
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,510
+14,а,А,CONJ,,,а,,,,,,CONJ,А,CONJ,,511
+15,речь,РЕЧЬ,S f inan acc sg,,,ь,ч,е,р,,,S,РЕЧЬ,S f inan nom sg,,512
+16,.,.,SENT,,,,,,,,,SENT,.,SENT,,513
+,,,,,,,,,,,,,,,,514
+1,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,515
+2,если,ЕСЛИ,CONJ,,,и,л,с,е,,,CONJ,ЕСЛИ,CONJ,,516
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,517
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,518
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,519
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,520
+7,,,_,,,,,,,,,,,_,8,521
+8,мыыы,МЫ,SPRO pl 1p - nom,distort,,ы,ы,ы,м,,,NONLEX,МЫЫЫ,NONLEX,,522
+9,,,_,,,,,,,,,,,_,8,523
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,524
+11,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,525
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,526
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,527
+14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,528
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,529
+16,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,530
+17,записываем,ЗАПИСЫВАТЬ,V ipf praes pl indic - 1p,,,м,е,а,в,ы,с,V,ЗАПИСЫВАТЬ,V ipf praes pl indic - 1p,,531
+18,какую-нибудь,КАКОЙ-НИБУДЬ,APRO - acc sg plen f -,,,ь,д,у,б,и,н,A,КАКОЙ-НИБУДЬ,A - acc sg plen f inan,,532
+19,монолингву,МОНОЛИНГВА,S f anim acc sg,,,у,в,г,н,и,л,S,МОНОЛИНГВА,S f inan acc sg,,533
+20,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,534
+21,да,ДА,INTJ,,,а,д,,,,,CONJ,ДА,CONJ,,535
+22,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,536
+23,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,537
+24,которая,КОТОРЫЙ,APRO - nom sg plen f -,,,я,а,р,о,т,о,A,КОТОРЫЙ,A - nom sg plen f -,,538
+25,единственная,ЕДИНСТВЕННЫЙ,A - nom sg plen f -,,,я,а,н,н,е,в,A,ЕДИНСТВЕННЫЙ,A - nom sg plen f -,,539
+26,говорит,ГОВОРИТЬ,V ipf praes sg indic - 3p,,,т,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praes sg indic - 3p,,540
+27,на,НА,PR,,,а,н,,,,,PR,НА,PR,,541
+28,этом,ЭТОТ,APRO - loc sg plen m -,,,м,о,т,э,,,A,ЭТОТ,A - loc sg plen m -,,542
+29,языке,ЯЗЫК,S m inan loc sg,,,е,к,ы,з,я,,S,ЯЗЫК,S m inan loc sg,,543
+30,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,544
+31,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,545
+32,больше,МНОГО,ADV comp,,,е,ш,ь,л,о,б,ADV,МНОГО,ADV comp,,546
+33,этот,ЭТОТ,APRO - nom sg plen m -,,,т,о,т,э,,,A,ЭТОТ,A - nom sg plen m -,,547
+34,язык,ЯЗЫК,S m inan nom sg,,,к,ы,з,я,,,S,ЯЗЫК,S m inan nom sg,,548
+35,никак,НИКАК,ADV -,,,к,а,к,и,н,,ADV,НИКАК,ADV -,,549
+36,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,550
+37,представлен,ПРЕДСТАВИТЬ,V partcp pf praet - sg brev m pass -,,,н,е,л,в,а,т,PARTCP,ПРЕДСТАВИТЬ,PARTCP pf praet - sg brev m pass -,,551
+38,.,.,SENT,,,,,,,,,SENT,.,SENT,,552
+,,,,,,,,,,,,,,,,553
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,554
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,555
+3,Я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,556
+4,говорил,ГОВОРИТЬ,V ipf praet sg indic m -,,,л,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praet sg indic m -,,557
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,558
+6,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,559
+7,говорил,ГОВОРИТЬ,V ipf praet sg indic m -,,,л,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praet sg indic m -,,560
+8,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,561
+9,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,562
+10,вошли,ВОЙТИ,V pf praet pl indic - -,,,и,л,ш,о,в,,V,ВОЙТИ,V pf praet pl indic - -,,563
+11,в,В,PR,,,в,,,,,,PR,В,PR,,564
+12,разговор,РАЗГОВОР,S m inan acc sg,,,р,о,в,о,г,з,S,РАЗГОВОР,S m inan acc sg,,565
+13,.,.,SENT,,,,,,,,,SENT,.,SENT,,566
+,,,,,,,,,,,,,,,,567
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,568
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,569
+3,Вот,ВОТ,INTJ,,,т,о,в,,,,PART,ВОТ,PART,,570
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,571
+,,,,,,,,,,,,,,,,572
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,573
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,574
+3,Нет,НЕТ,PART,слитно: distort,,т,е,н,,,,PART,НЕТ,PART,,575
+4,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,576
+5,с,NONLEX,NONLEX,слитно,,с,,,,,,S,С,S - - nonflex nonflex,,577
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,578
+7,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,579
+8,понимаю,ПОНИМАТЬ,V ipf praes sg indic - 1p,,,ю,а,м,и,н,о,V,ПОНИМАТЬ,V ipf praes sg indic - 1p,,580
+9,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,581
+10,да,ДА,PART,,,а,д,,,,,CONJ,ДА,CONJ,,582
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,583
+12,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,584
+13,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,585
+14,должны,ДОЛЖНЫЙ,A - - pl brev - -,,,ы,н,ж,л,о,д,A,ДОЛЖНЫЙ,A - - pl brev - -,,586
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,587
+16,по,ПО,PR,слитно: PARENTH,,о,п,,,,,PR,ПО,PR,,588
+17,сути,СУТЬ,S f inan dat sg,слитно: PARENTH,,и,т,у,с,,,S,СУТЬ,S f inan dat sg,,589
+18,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,590
+19,из,ИЗ,PR,,,з,и,,,,,PR,ИЗ,PR,,591
+20,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,592
+21,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,593
+22,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,594
+23,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,595
+24,,,_,,,,,,,,,,,_,25,596
+25,воще,ВООБЩЕ,ADV,distort,,е,щ,о,в,,,S,ВОЩ,S m inan loc sg,,597
+26,,,_,,,,,,,,,,,_,25,598
+27,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,599
+28,вообще,ВООБЩЕ,ADV -,,,е,щ,б,о,о,в,ADV,ВООБЩЕ,ADV -,,600
+29,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,601
+30,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,602
+31,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,603
+32,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,604
+33,всей,ВЕСЬ,SPRO sg 3p f gen,,,й,е,с,в,,,A,ВЕСЬ,A - gen sg plen f -,,605
+34,возможной,ВОЗМОЖНЫЙ,A - gen sg plen f -,,,й,о,н,ж,о,м,A,ВОЗМОЖНЫЙ,A - gen sg plen f -,,606
+35,информации,ИНФОРМАЦИЯ,S f inan gen sg,,,и,и,ц,а,м,р,S,ИНФОРМАЦИЯ,S f inan gen sg,,607
+36,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,608
+37,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,609
+38,это,ЭТО,PART,,,о,т,э,,,,S,ЭТО,S n - nom sg,,610
+39,же,ЖЕ,PART,,,е,ж,,,,,PART,ЖЕ,PART,,611
+40,взг...,ВЗГ...,NONLEX,,,,,,г,з,в,NONLEX,ВЗГ...,NONLEX,,612
+41,взг...,ВЗГ...,NONLEX,,,,,,г,з,в,NONLEX,ВЗГ...,NONLEX,,613
+42,взгляд,ВЗГЛЯД,S m inan nom sg,,,д,я,л,г,з,в,S,ВЗГЛЯД,S m inan acc sg,,614
+43,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,615
+44,посадка,ПОСАДКА,S f inan nom sg,,,а,к,д,а,с,о,S,ПОСАДКА,S f inan nom sg,,616
+45,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,617
+46,жесты,ЖЕСТ,S m inan nom pl,,,ы,т,с,е,ж,,S,ЖЕСТ,S m inan acc pl,,618
+47,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,619
+48,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,620
+49,собственно,СОБСТВЕННО,PARENTH,,,о,н,н,е,в,т,ADV,СОБСТВЕННО,ADV -,,621
+50,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,622
+51,речь,РЕЧЬ,S f inan nom sg,,,ь,ч,е,р,,,S,РЕЧЬ,S f inan nom sg,,623
+52,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,624
+53,вывести,ВЫВЕСТИ,V pf - - inf - -,,,и,т,с,е,в,ы,V,ВЫВЕСТИ,V pf - - inf - -,,625
+54,мысль,МЫСЛЬ,S f inan acc sg,,,ь,л,с,ы,м,,S,МЫСЛЬ,S f inan acc sg,,626
+55,человека,ЧЕЛОВЕК,S m anim gen sg,,,а,к,е,в,о,л,S,ЧЕЛОВЕК,S m anim gen sg,,627
+56,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,628
+57,его,ЕГО,APRO m - nonflex sg,,,о,г,е,,,,A,ЕГО,A - nonflex nonflex plen - -,,629
+58,характер,ХАРАКТЕР,S m inan acc sg,,,р,е,т,к,а,р,S,ХАРАКТЕР,S m inan acc sg,,630
+59,.,.,SENT,,,,,,,,,SENT,.,SENT,,631
+,,,,,,,,,,,,,,,,632
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,633
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,634
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,635
+4,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,636
+5,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX,,637
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,638
+7,,,_,,,,,,,,,,,_,8,639
+8,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX,,640
+9,,,_,,,,,,,,,,,_,8,641
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,642
+11,Смеётся,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,ё,е,м,V,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,643
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,644
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,645
+14,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,646
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,647
+16,работай,РАБОТАТЬ,V ipf - sg imper - 2p,,,й,а,т,о,б,а,V,РАБОТАТЬ,V ipf - sg imper - 2p,,648
+17,.,.,SENT,,,,,,,,,SENT,.,SENT,,649
+,,,,,,,,,,,,,,,,650
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,651
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,652
+3,Отлично.,ОТЛИЧНО.,PRAEDIC,,,,о,н,ч,и,л,ADV,ОТЛИЧНО.,ADV -,,653
+4,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,654
+5,блин,БЛИН,INTJ,,,н,и,л,б,,,S,БЛИН,S m inan nom sg,,655
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,656
+7,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,657
+8,знаю,ЗНАТЬ,V ipf praes sg indic - 1p,,,ю,а,н,з,,,V,ЗНАТЬ,V ipf praes sg indic - 1p,,658
+9,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,659
+10,ч...,NONLEX,NONLEX,,,,,,ч,,,S,Ч...,S m inan nonflex nonflex,,660
+11,по поводу,по поводу,ZERO,PR,,у,д,о,в,о,п,ZERO,по поводу,ZERO,,661
+12,речи,РЕЧЬ,S f inan gen sg,,,и,ч,е,р,,,S,РЕЧЬ,S f inan gen sg,,662
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,663
+14,у,У,PR,,,у,,,,,,PR,У,PR,,664
+15,тебя,ТЫ,SPRO sg 2p - gen,,,я,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - acc,,665
+16,был,БЫТЬ,V ipf praet sg indic m -,,,л,ы,б,,,,V,БЫТЬ,V ipf praet sg indic m -,,666
+17,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,667
+18,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,668
+19,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,669
+20,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,670
+21,говорил,ГОВОРИТЬ,V ipf praet sg indic m -,,,л,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praet sg indic m -,,671
+22,уже,УЖЕ,ADV -,,,е,ж,у,,,,ADV,УЖЕ,ADV -,,672
+23,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,673
+24,.,.,SENT,,,,,,,,,SENT,.,SENT,,674
+,,,,,,,,,,,,,,,,675
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,676
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,677
+3,С,NONLEX,NONLEX,,,с,,,,,,S,С,S - - nonflex nonflex,,678
+4,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,679
+5,ть,NONLEX,NONLEX,,,ь,т,,,,,NONLEX,ТЬ,NONLEX,,680
+6,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,681
+7,ть,NONLEX,NONLEX,,,ь,т,,,,,NONLEX,ТЬ,NONLEX,,682
+8,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,683
+9,ть,NONLEX,NONLEX,,,ь,т,,,,,NONLEX,ТЬ,NONLEX,,684
+10,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,685
+11,ть,NONLEX,NONLEX,,,ь,т,,,,,NONLEX,ТЬ,NONLEX,,686
+12,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,687
+13,ть,NONLEX,NONLEX,,,ь,т,,,,,NONLEX,ТЬ,NONLEX,,688
+14,..,..,SENT,,,,,,,,,SENT,..,SENT,,689
+,,,,,,,,,,,,,,,,690
+1,Тема,ТЕМА,S f inan nom sg,,,а,м,е,т,,,S,ТЕМА,S f inan nom sg,,691
+2,исчерпана,ИСЧЕРПАТЬ,V partcp pf praet - sg brev f pass -,,,а,н,а,п,р,е,PARTCP,ИСЧЕРПАТЬ,PARTCP pf praet - sg brev f pass -,,692
+3,?,?,SENT,,,,,,,,,SENT,?,SENT,,693
+,,,,,,,,,,,,,,,,694
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan gen sg,,695
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,696
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,697
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,698
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,699
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,700
+7,,,_,,,,,,,,,,,_,8,701
+8,Не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,702
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,703
+10,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,704
+11,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,705
+12,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,706
+13,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,707
+14,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,708
+15,,,_,,,,,,,,,,,_,14,709
+16,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,710
+17,Нет,НЕТ,PART,,,т,е,н,,,,PART,НЕТ,PART,,711
+18,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,712
+19,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,713
+20,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,714
+21,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,715
+22,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,716
+23,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,717
+24,исчерпана,ИСЧЕРПАТЬ,V partcp pf praet - sg brev f pass -,,,а,н,а,п,р,е,PARTCP,ИСЧЕРПАТЬ,PARTCP pf praet - sg brev f pass -,,718
+25,.,.,SENT,,,,,,,,,SENT,.,SENT,,719
+,,,,,,,,,,,,,,,,720
+1,Ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,721
+2,говорил,ГОВОРИТЬ,V ipf praet sg indic m -,,,л,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praet sg indic m -,,722
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,723
+4,у,У,PR,,,у,,,,,,PR,У,PR,,724
+5,тебя,ТЫ,SPRO sg 2p - gen,,,я,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - acc,,725
+6,уже,УЖЕ,ADV -,,,е,ж,у,,,,ADV,УЖЕ,ADV -,,726
+7,был,БЫТЬ,V ipf praet sg indic m -,,,л,ы,б,,,,V,БЫТЬ,V ipf praet sg indic m -,,727
+8,предмет,ПРЕДМЕТ,S m inan nom sg,,,т,е,м,д,е,р,S,ПРЕДМЕТ,S m inan acc sg,,728
+9,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,729
+10,в,В,PR,,,в,,,,,,PR,В,PR,,730
+11,котором,КОТОРЫЙ,APRO - loc sg plen m -,,,м,о,р,о,т,о,A,КОТОРЫЙ,A - loc sg plen m -,,731
+12,вы,ВЫ,SPRO pl 2p - nom,,,ы,в,,,,,SPRO,ВЫ,SPRO pl 2p - nom,,732
+13,анализировали,АНАЛИЗИРОВАТЬ,V ipf praet pl indic - -,,,и,л,а,в,о,р,V,АНАЛИЗИРОВАТЬ,V ipf praet pl indic - -,,733
+14,речь,РЕЧЬ,S f inan acc sg,,,ь,ч,е,р,,,S,РЕЧЬ,S f inan acc sg,,734
+15,.,.,SENT,,,,,,,,,SENT,.,SENT,,735
+,,,,,,,,,,,,,,,,736
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,737
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,738
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,739
+4,да,ДА,PART,,,а,д,,,,,CONJ,ДА,CONJ,,740
+5,.,.,SENT,,,,,,,,,SENT,.,SENT,,741
+,,,,,,,,,,,,,,,,742
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,743
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,744
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,745
+4,вот,ВОТ,PARENTH,,,т,о,в,,,,PART,ВОТ,PART,,746
+5,как бы,как бы,PART,,,ы,б,,к,а,к,-,как бы,-,,747
+6,вас,ВЫ,SPRO pl 2p - acc,,,с,а,в,,,,SPRO,ВЫ,SPRO pl 2p - loc,,748
+7,это,ЭТО,INTJ,,,о,т,э,,,,PART,ЭТО,PART,,749
+8,как-то...,КАК-ТО...,ADVPRO -,,,,,,о,т,,ADV,КАК-ТО...,ADV -,,750
+9,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,751
+10,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,752
+11,во,ВО,PR,,,о,в,,,,,PR,ВО,PR,,753
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,754
+13,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,755
+14,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,756
+15,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,757
+16,,,_,,,,,,,,,,,_,17,758
+17,вгике,ВГИК ВСЕРОССИЙСКИЙ ГОСУДАРСТВЕННЫЙ ИНСТИТУТ КИНЕМАТОГРАФИИ,S m inan loc sg - abbr,,,е,к,и,г,в,,S,ВГИК,S m inan loc sg,,759
+18,,,_,,,,,,,,,,,_,17,760
+19,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,761
+20,ВГИК,ВГИК ВСЕРОССИЙСКИЙ ГОСУДАРСТВЕННЫЙ ИНСТИТУТ КИНЕМАТОГРАФИИ,S m inan loc sg - abbr,,,к,и,г,в,,,S,ВГИК,S m inan acc sg,,762
+21,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,763
+22,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,764
+23,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,765
+24,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,766
+25,учишься,УЧИТЬСЯ,V ipf praes sg indic - 2p,,,я,с,ь,ш,и,ч,V,УЧИТЬСЯ,V ipf praes sg indic - 2p,,767
+26,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,768
+27,у,У,PR,,,у,,,,,,PR,У,PR,,769
+28,вас,ВЫ,SPRO pl 2p - gen,,,с,а,в,,,,SPRO,ВЫ,SPRO pl 2p - loc,,770
+29,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,771
+30,как-то,КАК-ТО,ADVPRO -,,,о,т,,к,а,к,ADV,КАК-ТО,ADV -,,772
+31,через,ЧЕРЕЗ,PR,,,з,е,р,е,ч,,PR,ЧЕРЕЗ,PR,,773
+32,контекст,КОНТЕКСТ,S m inan acc sg,,,т,с,к,е,т,н,S,КОНТЕКСТ,S m inan acc sg,,774
+33,кино,КИНО,S n inan nonflex nonflex,,,о,н,и,к,,,S,КИНО,S n inan nonflex nonflex,,775
+34,прогоняется,ПРОГОНЯТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,я,н,V,ПРОГОНЯТЬСЯ,V ipf praes sg indic - 3p,,776
+35,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,777
+36,типа...,ТИПА,PART,PARENTH,,,,,а,п,и,S,ТИП...,S m inan gen sg,,778
+37,вообще,ВООБЩЕ,PARENTH,,,е,щ,б,о,о,в,ADV,ВООБЩЕ,ADV -,,779
+38,к,К,PR,,,к,,,,,,PR,К,PR,,780
+39,чему,ЧТО,SPRO sg - - dat,,,у,м,е,ч,,,S,ЧТО,S n - dat sg,,781
+40,у,У,PR,,,у,,,,,,PR,У,PR,,782
+41,вас,ВЫ,SPRO pl 2p - gen,,,с,а,в,,,,SPRO,ВЫ,SPRO pl 2p - loc,,783
+42,этот,ЭТОТ,APRO - nom sg plen m -,,,т,о,т,э,,,A,ЭТОТ,A - nom sg plen m -,,784
+43,предмет,ПРЕДМЕТ,S m inan nom sg,,,т,е,м,д,е,р,S,ПРЕДМЕТ,S m inan nom sg,,785
+44,например,НАПРИМЕР,PARENTH,,,р,е,м,и,р,п,ADV,НАПРИМЕР,ADV -,,786
+45,был,БЫТЬ,V ipf praet sg indic m -,,,л,ы,б,,,,V,БЫТЬ,V ipf praet sg indic m -,,787
+46,?,?,SENT,,,,,,,,,SENT,?,SENT,,788
+,,,,,,,,,,,,,,,,789
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,790
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,791
+3,Нет,НЕТ,PART,,,т,е,н,,,,PART,НЕТ,PART,,792
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,793
+5,Сень,СЕНЬ,S m anim persn voc sg,,,ь,н,е,с,,,S,СЕНЬ,S f inan acc sg,,794
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,795
+7,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,796
+8,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,797
+9,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,798
+10,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,799
+11,,,_,,,,,,,,,,,_,12,800
+12,естессьно,ЕСТЕСТВЕННО,INTJ,distort,,о,н,ь,с,с,е,ADV,ЕСТЕССЬНО,ADV -,,801
+13,,,_,,,,,,,,,,,_,12,802
+14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,803
+15,естественно,ЕСТЕСТВЕННО,INTJ,,,о,н,н,е,в,т,ADV,ЕСТЕСТВЕННО,ADV -,,804
+16,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,805
+17,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,806
+18,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,807
+19,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,808
+20,.,.,SENT,,,,,,,,,SENT,.,SENT,,809
+,,,,,,,,,,,,,,,,810
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,811
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,812
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,813
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,814
+5,смотри,СМОТРЕТЬ,V ipf - sg imper - 2p,PARENTH,,и,р,т,о,м,с,V,СМОТРЕТЬ,V ipf - sg imper - 2p,,815
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,816
+7,просто,ПРОСТО,ADV -,,,о,т,с,о,р,п,PART,ПРОСТО,PART,,817
+8,объясню,ОБЪЯСНИТЬ,V pf fut sg indic - 1p,,,ю,н,с,я,ъ,б,V,ОБЪЯСНИТЬ,V pf fut sg indic - 1p,,818
+9,:,:,PUNC,,,,,,,,,PUNC,:,PUNC,,819
+10,у,У,PR,,,у,,,,,,PR,У,PR,,820
+11,нас,МЫ,SPRO pl 1p - gen,,,с,а,н,,,,SPRO,МЫ,SPRO pl 1p - loc,,821
+12,это...,ЭТОТ,SPRO n - nom sg,,,,,,о,т,э,S,ЭТО...,S m inan gen sg,,822
+13,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,823
+14,конкретно,КОНКРЕТНО,ADV -,,,о,н,т,е,р,к,ADV,КОНКРЕТНО,ADV -,,824
+15,к,К,PR,,,к,,,,,,PR,К,PR,,825
+16,кино,КИНО,S n inan nonflex nonflex,,,о,н,и,к,,,S,КИНО,S n inan nonflex nonflex,,826
+17,.,.,SENT,,,,,,,,,SENT,.,SENT,,827
+,,,,,,,,,,,,,,,,828
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,829
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,830
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,831
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,832
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,833
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,834
+7,,,_,,,,,,,,,,,_,8,835
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,836
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,837
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,838
+11,,,_,,,,,,,,,,,_,10,839
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,840
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,841
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,842
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,843
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,844
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,845
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,846
+,,,,,,,,,,,,,,,,847
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,848
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,849
+3,Это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,850
+4,подвязывается,ПОДВЯЗЫВАТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,а,в,V,ПОДВЯЗЫВАТЬСЯ,V ipf praes sg indic - 3p,,851
+5,тем,ТО,APRO - ins sg plen n -,,,м,е,т,,,,S,ТО,S n - ins sg,,852
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,853
+7,что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,854
+8,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,855
+9,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,856
+10,учились,УЧИТЬСЯ,V ipf praet pl indic - -,,,ь,с,и,л,и,ч,V,УЧИТЬСЯ,V ipf praet pl indic - -,,857
+11,ааа,NONLEX,NONLEX,,,а,а,а,,,,S,ААА,S m inan nonflex nonflex,,858
+12,различать,РАЗЛИЧАТЬ,V ipf - - inf - -,,,ь,т,а,ч,и,л,V,РАЗЛИЧАТЬ,V ipf - - inf - -,,859
+13,речь,РЕЧЬ,S f inan acc sg,,,ь,ч,е,р,,,S,РЕЧЬ,S f inan acc sg,,860
+14,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,861
+15,учились,УЧИТЬСЯ,V ipf praet pl indic - -,,,ь,с,и,л,и,ч,V,УЧИТЬСЯ,V ipf praet pl indic - -,,862
+16,её,ОНА,SPRO sg 3p f acc,,,ё,е,,,,,SPRO,ОНА,SPRO sg 3p f acc,,863
+17,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,864
+18,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,865
+19,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,866
+20,как бы,как бы,INTJ,,,ы,б,,к,а,к,-,как бы,-,,867
+21,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,868
+22,обдумывать,ОБДУМЫВАТЬ,V ipf - - inf - -,,,ь,т,а,в,ы,м,V,ОБДУМЫВАТЬ,V ipf - - inf - -,,869
+23,.,.,SENT,,,,,,,,,SENT,.,SENT,,870
+,,,,,,,,,,,,,,,,871
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,872
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,873
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,874
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,875
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,876
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,877
+7,,,_,,,,,,,,,,,_,8,878
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,879
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,880
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,881
+11,,,_,,,,,,,,,,,_,10,882
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,883
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,884
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,885
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,886
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,887
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,888
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,889
+,,,,,,,,,,,,,,,,890
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,891
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,892
+3,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,893
+4,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,894
+5,учились,УЧИТЬСЯ,V ipf praet pl indic - -,,,ь,с,и,л,и,ч,V,УЧИТЬСЯ,V ipf praet pl indic - -,,895
+6,смотреть,СМОТРЕТЬ,V ipf - - inf - -,,,ь,т,е,р,т,о,V,СМОТРЕТЬ,V ipf - - inf - -,,896
+7,на,НА,PR,,,а,н,,,,,PR,НА,PR,,897
+8,речь,РЕЧЬ,S f inan acc sg,,,ь,ч,е,р,,,S,РЕЧЬ,S f inan acc sg,,898
+9,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,899
+10,как,КАК,CONJ,,,к,а,к,,,,ADV,КАК,ADV -,,900
+11,на,НА,PR,,,а,н,,,,,PR,НА,PR,,901
+12,просто,ПРОСТО,PART,,,о,т,с,о,р,п,ADV,ПРОСТО,ADV -,,902
+13,набор,НАБОР,S m inan acc sg,,,р,о,б,а,н,,S,НАБОР,S m inan nom sg,,903
+14,слов,СЛОВО,S n inan gen pl,,,в,о,л,с,,,S,СЛОВО,S n inan gen pl,,904
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,905
+16,который,КОТОРЫЙ,APRO - nom sg plen m -,,,й,ы,р,о,т,о,A,КОТОРЫЙ,A - nom sg plen m -,,906
+17,нам,МЫ,SPRO pl 1p - dat,,,м,а,н,,,,SPRO,МЫ,SPRO pl 1p - dat,,907
+18,нужно,НУЖНО,PRAEDIC,,,о,н,ж,у,н,,ADV,НУЖНО,ADV -,,908
+19,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,909
+20,там,ТАМ,INTJ,,,м,а,т,,,,ADV,ТАМ,ADV -,,910
+21,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,911
+22,смонтировать,СМОНТИРОВАТЬ,V pf - - inf - -,,,ь,т,а,в,о,р,V,СМОНТИРОВАТЬ,V pf - - inf - -,,912
+23,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,913
+24,подмонтировать,ПОДМОНТИРОВАТЬ,V ipf - - inf - -,,,ь,т,а,в,о,р,V,ПОДМОНТИРОВАТЬ,V ipf - - inf - -,,914
+25,под,ПОД,PR,,,д,о,п,,,,PR,ПОД,PR,,915
+26,губы,ГУБА,S f inan acc pl,,,ы,б,у,г,,,S,ГУБА,S f inan acc pl,,916
+27,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,917
+28,всё,ВСЕ,PRAEDIC,,,ё,с,в,,,,S,ВСЕ,S - - acc pl,,918
+29,.,.,SENT,,,,,,,,,SENT,.,SENT,,919
+,,,,,,,,,,,,,,,,920
+1,Мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,921
+2,учились,УЧИТЬСЯ,V ipf praet pl indic - -,,,ь,с,и,л,и,ч,V,УЧИТЬСЯ,V ipf praet pl indic - -,,922
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,923
+4,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,924
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,925
+6,буквально,БУКВАЛЬНО,ADV -,,,о,н,ь,л,а,в,ADV,БУКВАЛЬНО,ADV -,,926
+7,анализировать,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,,ь,т,а,в,о,р,V,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,927
+8,её,ОНА,SPRO sg 3p f acc,,,ё,е,,,,,SPRO,ОНА,SPRO sg 3p f acc,,928
+9,.,.,SENT,,,,,,,,,SENT,.,SENT,,929
+,,,,,,,,,,,,,,,,930
+1,Ааааа,NONLEX,NONLEX,,,а,а,а,а,а,,S,ААААА,S m inan nonflex nonflex,,931
+2,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,932
+3,начиная,НАЧИНАТЬ,V ipf praes - ger - -,,,я,а,н,и,ч,а,V,НАЧИНАТЬ,V ipf praes - ger - -,,933
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,934
+5,там,ТАМ,INTJ,,,м,а,т,,,,ADV,ТАМ,ADV -,,935
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,936
+7,от,ОТ,PR,,,т,о,,,,,PR,ОТ,PR,,937
+8,каких-то,КАКОЙ-ТО,APRO - gen pl plen - -,,,о,т,,х,и,к,A,КАКОЙ-ТО,A - loc pl plen - -,,938
+9,совсем,СОВСЕМ,ADV -,,,м,е,с,в,о,с,ADV,СОВСЕМ,ADV -,,939
+10,формальных,ФОРМАЛЬНЫЙ,A - gen pl plen - -,,,х,ы,н,ь,л,а,A,ФОРМАЛЬНЫЙ,A - gen pl plen - -,,940
+11,вещей,ВЕЩЬ,S f inan gen pl,,,й,е,щ,е,в,,S,ВЕЩЬ,S f inan gen pl,,941
+12,типа,ТИПА,PART,PARENTH,,а,п,и,т,,,S,ТИП,S m inan gen sg,,942
+13,диалект,ДИАЛЕКТ,S m inan nom sg,anom,,т,к,е,л,а,и,S,ДИАЛЕКТ,S m inan nom sg,,943
+14,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,944
+15,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,945
+16,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,946
+17,происхождение,ПРОИСХОЖДЕНИЕ,S n inan nom sg,,,е,и,н,е,д,ж,S,ПРОИСХОЖДЕНИЕ,S n inan nom sg,,947
+18,человека,ЧЕЛОВЕК,S m anim gen sg,,,а,к,е,в,о,л,S,ЧЕЛОВЕК,S m anim gen sg,,948
+19,ааа,NONLEX,NONLEX,,,а,а,а,,,,S,ААА,S m inan nonflex nonflex,,949
+20,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,950
+21,заканчивая,ЗАКАНЧИВАТЬ,V ipf praes - ger - -,,,я,а,в,и,ч,н,V,ЗАКАНЧИВАТЬ,V ipf praes - ger - -,,951
+22,то...,ТОТ,APRO - acc sg plen n -,,,,,,о,т,,CONJ,ТО...,CONJ,,952
+23,как,КАК,CONJ,,,к,а,к,,,,CONJ,КАК,CONJ,,953
+24,на,НА,PR,слитно: PARENTH,,а,н,,,,,PR,НА,PR,,954
+25,самом,САМЫЙ,APRO - loc sg plen n -,слитно: PARENTH,,м,о,м,а,с,,A,САМЫЙ,A - loc sg plen n -,,955
+26,деле,ДЕЛО,S n inan loc sg,слитно: PARENTH,,е,л,е,д,,,S,ДЕЛО,S n inan loc sg,,956
+27,этот,ЭТОТ,APRO - nom sg plen m -,,,т,о,т,э,,,A,ЭТОТ,A - nom sg plen m -,,957
+28,человек,ЧЕЛОВЕК,S m anim nom sg,,,к,е,в,о,л,е,S,ЧЕЛОВЕК,S m anim nom sg,,958
+29,думает,ДУМАТЬ,V ipf praes sg indic - 3p,,,т,е,а,м,у,д,V,ДУМАТЬ,V ipf praes sg indic - 3p,,959
+30,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,960
+31,мыслит,МЫСЛИТЬ,V ipf praes sg indic - 3p,,,т,и,л,с,ы,м,V,МЫСЛИТЬ,V ipf praes sg indic - 3p,,961
+32,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,962
+33,что,ЧТО,SPRO sg - - acc,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,963
+34,чувствует,ЧУВСТВОВАТЬ,V ipf praes sg indic - 3p,,,т,е,у,в,т,с,V,ЧУВСТВОВАТЬ,V ipf praes sg indic - 3p,,964
+35,.,.,SENT,,,,,,,,,SENT,.,SENT,,965
+,,,,,,,,,,,,,,,,966
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,967
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,968
+3,Это,ЭТО,INTJ,,,о,т,э,,,,S,ЭТО,S n - nom sg,,969
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,970
+5,блин,БЛИН,INTJ,,,н,и,л,б,,,S,БЛИН,S m inan nom sg,,971
+6,...,...,SENT,,,,,,,,,SENT,...,SENT,,972
+,,,,,,,,,,,,,,,,973
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,974
+2,это,ЭТО,PART,,,о,т,э,,,,S,ЭТО,S n - nom sg,,975
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,976
+4,это,ЭТО,PART,,,о,т,э,,,,S,ЭТО,S n - nom sg,,977
+5,всё,ВСЕ,PART,слитно,,ё,с,в,,,,ADV,ВСЕ,ADV -,,978
+6,равно,РАВНЫЙ,PART,слитно,,о,н,в,а,р,,A,РАВНЫЙ,A - - sg brev n -,,979
+7,остались,ОСТАТЬСЯ,V pf praet pl indic - -,,,ь,с,и,л,а,т,V,ОСТАТЬСЯ,V pf praet pl indic - -,,980
+8,довольно,ДОВОЛЬНО,ADV -,,,о,н,ь,л,о,в,ADV,ДОВОЛЬНО,ADV -,,981
+9,тонкие,ТОНКИЙ,A - nom pl plen - inan,,,е,и,к,н,о,т,A,ТОНКИЙ,A - acc pl plen - inan,,982
+10,вещи,ВЕЩЬ,S f inan nom pl,,,и,щ,е,в,,,S,ВЕЩЬ,S f inan acc pl,,983
+11,для,ДЛЯ,PR,,,я,л,д,,,,PR,ДЛЯ,PR,,984
+12,моего,МОЙ,APRO - gen sg plen m -,,,о,г,е,о,м,,A,МОЙ,A - gen sg plen m -,,985
+13,понимания,ПОНИМАНИЕ,S n inan gen sg,,,я,и,н,а,м,и,S,ПОНИМАНИЕ,S n inan gen sg,,986
+14,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,987
+15,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,988
+16,всё,ВСЕ,PART,слитно,,ё,с,в,,,,S,ВСЕ,S n - nom sg,,989
+17,равно,РАВНЫЙ,PART,слитно,,о,н,в,а,р,,A,РАВНЫЙ,A - - sg brev n -,,990
+18,опыт,ОПЫТ,S m inan nom sg,,,т,ы,п,о,,,S,ОПЫТ,S m inan nom sg,,991
+19,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,992
+20,но,НО,CONJ,,,о,н,,,,,CONJ,НО,CONJ,,993
+21,такие,ТАКОЙ,APRO - nom pl plen - -,,,е,и,к,а,т,,A,ТАКОЙ,A - nom pl plen - -,,994
+22,какие-то,КАКОЙ-ТО,APRO - acc pl plen - -,,,о,т,,е,и,к,A,КАКОЙ-ТО,A - nom pl plen - -,,995
+23,задатки,ЗАДАТОК,S m inan acc pl,,,и,к,т,а,д,а,S,ЗАДАТОК,S m inan nom pl,,996
+24,этого,ЭТОТ,SPRO n - gen sg,,,о,г,о,т,э,,S,ЭТО,S n - gen sg,,997
+25,нам,МЫ,SPRO pl 1p - dat,,,м,а,н,,,,SPRO,МЫ,SPRO pl 1p - dat,,998
+26,дали,ДАВАТЬ,V ipf praet pl indic - -,,,и,л,а,д,,,S,ДАЛЬ,S f inan loc sg,,999
+27,.,.,SENT,,,,,,,,,SENT,.,SENT,,1000
+,,,,,,,,,,,,,,,,1001
+1,И,И,CONJ,,,и,,,,,,PART,И,PART,,1002
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1003
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1004
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1005
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1006
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1007
+7,,,_,,,,,,,,,,,_,8,1008
+8,собсэна,СОБСТВЕННО,PARENTH,distort,,а,н,э,с,б,о,S,СОБСЭН,S m inan gen sg,,1009
+9,,,_,,,,,,,,,,,_,8,1010
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1011
+11,собственно,СОБСТВЕННО,PARENTH,,,о,н,н,е,в,т,ADV,СОБСТВЕННО,ADV -,,1012
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1013
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1014
+14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1015
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1016
+16,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1017
+17,следующий,СЛЕДОВАТЬ,V partcp ipf inpraes acc sg plen m act inan,,,й,и,щ,ю,у,д,PARTCP,СЛЕДОВАТЬ,PARTCP ipf inpraes acc sg plen m act inan,,1018
+18,предмет,ПРЕДМЕТ,S m inan nom sg,,,т,е,м,д,е,р,S,ПРЕДМЕТ,S m inan acc sg,,1019
+19,.,.,SENT,,,,,,,,,SENT,.,SENT,,1020
+,,,,,,,,,,,,,,,,1021
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1022
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1023
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1024
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1025
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1026
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1027
+7,,,_,,,,,,,,,,,_,8,1028
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,1029
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1030
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,1031
+11,,,_,,,,,,,,,,,_,10,1032
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1033
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1034
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1035
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1036
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1037
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1038
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,1039
+,,,,,,,,,,,,,,,,1040
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1041
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1042
+3,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,1043
+4,с,С,PR,,,с,,,,,,PR,С,PR,,1044
+5,этим,ЭТОТ,APRO m dat sg plen - -,,,м,и,т,э,,,A,ЭТОТ,A - dat pl plen - -,,1045
+6,же,ЖЕ,PART,,,е,ж,,,,,PART,ЖЕ,PART,,1046
+7,преподавателем,ПРЕПОДАВАТЕЛЬ,S m-f anim ins sg,,,м,е,л,е,т,а,S,ПРЕПОДАВАТЕЛЬ,S m anim ins sg,,1047
+8,у,У,PR,,,у,,,,,,PR,У,PR,,1048
+9,нас,МЫ,SPRO pl 1p - gen,,,с,а,н,,,,SPRO,МЫ,SPRO pl 1p - loc,,1049
+10,был,БЫТЬ,V ipf praet sg indic m -,anom,,л,ы,б,,,,V,БЫТЬ,V ipf praet sg indic m -,,1050
+11,работа,РАБОТА,S f inan nom sg,,,а,т,о,б,а,р,S,РАБОТА,S f inan nom sg,,1051
+12,с,С,PR,,,с,,,,,,PR,С,PR,,1052
+13,актёром,АКТЕР,S m anim ins sg,,,м,о,р,ё,т,к,S,АКТЕР,S m anim ins sg,,1053
+14,.,.,SENT,,,,,,,,,SENT,.,SENT,,1054
+,,,,,,,,,,,,,,,,1055
+1,Понятно,ПОНЯТНО,PRAEDIC,,,о,н,т,я,н,о,ADV,ПОНЯТНО,ADV -,,1056
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1057
+3,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,1058
+4,нам,МЫ,SPRO pl 1p - dat,,,м,а,н,,,,SPRO,МЫ,SPRO pl 1p - dat,,1059
+5,дали,ДАВАТЬ,V ipf praet pl indic - -,,,и,л,а,д,,,S,ДАЛЬ,S f inan loc sg,,1060
+6,понимание,ПОНИМАНИЕ,S n inan acc sg,,,е,и,н,а,м,и,S,ПОНИМАНИЕ,S n inan acc sg,,1061
+7,того,ТОТ,APRO - gen sg plen n -,,,о,г,о,т,,,S,ТО,S n - gen sg,,1062
+8,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1063
+9,как,КАК,CONJ,,,к,а,к,,,,CONJ,КАК,CONJ,,1064
+10,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,1065
+11,должны...,ДОЛЖНЫЙ,A - - pl brev - -,,,,,,ы,н,ж,A,ДОЛЖНЫЙ...,A - - pl brev - -,,1066
+12,блять,БЛЯТЬ,INTJ,,,ь,т,я,л,б,,V,БЛЯТЬ,V ipf - - inf - -,,1067
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1068
+14,понимать,ПОНИМАТЬ,V ipf - - inf - -,,,ь,т,а,м,и,н,V,ПОНИМАТЬ,V ipf - - inf - -,,1069
+15,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1070
+16,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,1071
+17,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX,,1072
+18,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1073
+19,,,_,,,,,,,,,,,_,20,1074
+20,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX,,1075
+21,,,_,,,,,,,,,,,_,20,1076
+22,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1077
+23,Смеётся,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,ё,е,м,V,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,1078
+24,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1079
+25,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1080
+26,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,1081
+27,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1082
+28,это...,ЭТОТ,SPRO n - acc sg,,,,,,о,т,э,PART,ЭТО...,PART,,1083
+29,анализировать,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,,ь,т,а,в,о,р,V,АНАЛИЗИРОВАТЬ,V ipf - - inf - -,,1084
+30,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1085
+31,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1086
+32,дальше,ДАЛЕКО,ADV comp,,,е,ш,ь,л,а,д,ADV,ДАЛЕКО,ADV comp,,1087
+33,уже,УЖЕ,ADV -,,,е,ж,у,,,,ADV,УЖЕ,ADV -,,1088
+34,вывели,ВЫВЕСТИ,V pf praet pl indic - -,,,и,л,е,в,ы,в,V,ВЫВЕСТИ,V pf praet pl indic - -,,1089
+35,работать,РАБОТАТЬ,V ipf - - inf - -,,,ь,т,а,т,о,б,V,РАБОТАТЬ,V ipf - - inf - -,,1090
+36,с,С,PR,,,с,,,,,,PR,С,PR,,1091
+37,актёром,АКТЕР,S m anim ins sg,,,м,о,р,ё,т,к,S,АКТЕР,S m anim ins sg,,1092
+38,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1093
+39,смотреть,СМОТРЕТЬ,V ipf - - inf - -,,,ь,т,е,р,т,о,V,СМОТРЕТЬ,V ipf - - inf - -,,1094
+40,.,.,SENT,,,,,,,,,SENT,.,SENT,,1095
+,,,,,,,,,,,,,,,,1096
+1,Да,ДА,PART,,,а,д,,,,,CONJ,ДА,CONJ,,1097
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1098
+3,то есть,то есть,CONJ,,,ь,т,с,е,,о,-,то есть,-,,1099
+4,чтобы,ЧТОБЫ,CONJ,,,ы,б,о,т,ч,,CONJ,ЧТОБЫ,CONJ,,1100
+5,как бы,как бы,PART,,,ы,б,,к,а,к,-,как бы,-,,1101
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,1102
+,,,,,,,,,,,,,,,,1103
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1104
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1105
+3,Погоди,ПОГОДИТЬ,V pf - sg imper - 2p,,,и,д,о,г,о,п,V,ПОГОДИТЬ,V pf - sg imper - 2p,,1106
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1107
+,,,,,,,,,,,,,,,,1108
+1,Извини,ИЗВИНИТЬ,V pf - sg imper - 2p,,,и,н,и,в,з,и,V,ИЗВИНИТЬ,V pf - sg imper - 2p,,1109
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1110
+3,а,А,CONJ,,,а,,,,,,CONJ,А,CONJ,,1111
+4,как,КАК,ADV -,,,к,а,к,,,,CONJ,КАК,CONJ,,1112
+5,звукорежиссёр,ЗВУКОРЕЖИССЕР,S m anim nom sg,,,р,ё,с,с,и,ж,S,ЗВУКОРЕЖИССЕР,S m anim nom sg,,1113
+6,вообще,ВООБЩЕ,ADV -,,,е,щ,б,о,о,в,ADV,ВООБЩЕ,ADV -,,1114
+7,работает,РАБОТАТЬ,V ipf praes sg indic - 3p,,,т,е,а,т,о,б,V,РАБОТАТЬ,V ipf praes sg indic - 3p,,1115
+8,с,С,PR,,,с,,,,,,PR,С,PR,,1116
+9,актёром,АКТЕР,S m anim ins sg,,,м,о,р,ё,т,к,S,АКТЕР,S m anim ins sg,,1117
+10,?,?,SENT,,,,,,,,,SENT,?,SENT,,1118
+,,,,,,,,,,,,,,,,1119
+1,Типа,ТИПА,PART,PARENTH,,а,п,и,т,,,S,ТИП,S m inan gen sg,,1120
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1121
+3,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1122
+4,...,...,SENT,,,,,,,,,SENT,...,SENT,,1123
+,,,,,,,,,,,,,,,,1124
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1125
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1126
+3,Объясню,ОБЪЯСНИТЬ,V pf fut sg indic - 1p,,,ю,н,с,я,ъ,б,V,ОБЪЯСНИТЬ,V pf fut sg indic - 1p,,1127
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1128
+,,,,,,,,,,,,,,,,1129
+1,Дело,ДЕЛО,S n inan nom sg,,,о,л,е,д,,,S,ДЕЛО,S n inan nom sg,,1130
+2,в,В,PR,,,в,,,,,,PR,В,PR,,1131
+3,том,ТОТ,APRO - loc sg plen n -,,,м,о,т,,,,S,ТО,S n - loc sg,,1132
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1133
+5,что,ЧТО,CONJ,,,о,т,ч,,,,S,ЧТО,S n inan acc sg,,1134
+6,...,...,SENT,,,,,,,,,SENT,...,SENT,,1135
+,,,,,,,,,,,,,,,,1136
+1,Это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,1137
+2,очень,ОЧЕНЬ,ADV -,,,ь,н,е,ч,о,,ADV,ОЧЕНЬ,ADV -,,1138
+3,забавно,ЗАБАВНЫЙ,PRAEDIC,,,о,н,в,а,б,а,A,ЗАБАВНЫЙ,A - - sg brev n -,,1139
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1140
+5,вот,ВОТ,INTJ,,,т,о,в,,,,PART,ВОТ,PART,,1141
+6,смотри,СМОТРЕТЬ,V ipf - sg imper - 2p,PARENTH,,и,р,т,о,м,с,V,СМОТРЕТЬ,V ipf - sg imper - 2p,,1142
+7,:,:,PUNC,,,,,,,,,PUNC,:,PUNC,,1143
+8,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,1144
+9,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1145
+10,актёр,АКТЕР,S m anim nom sg,,,р,ё,т,к,а,,S,АКТЕР,S m anim nom sg,,1146
+11,.,.,SENT,,,,,,,,,SENT,.,SENT,,1147
+,,,,,,,,,,,,,,,,1148
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1149
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1150
+3,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1151
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1152
+,,,,,,,,,,,,,,,,1153
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1154
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1155
+3,Вот,ВОТ,PARENTH,,,т,о,в,,,,PART,ВОТ,PART,,1156
+4,со,СО,PR,,,о,с,,,,,PR,СО,PR,,1157
+5,мной,Я,SPRO sg 1p - ins,,,й,о,н,м,,,SPRO,Я,SPRO sg 1p - ins,,1158
+6,сидит,СИДЕТЬ,V ipf praes sg indic - 3p,,,т,и,д,и,с,,V,СИДЕТЬ,V ipf praes sg indic - 3p,,1159
+7,режиссёр,РЕЖИССЕР,S m-f anim nom sg,,,р,ё,с,с,и,ж,S,РЕЖИССЕР,S m anim nom sg,,1160
+8,.,.,SENT,,,,,,,,,SENT,.,SENT,,1161
+,,,,,,,,,,,,,,,,1162
+1,И,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1163
+2,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1164
+3,такой,ТАКОЙ,APRO - nom sg plen m -,,,й,о,к,а,т,,A,ТАКОЙ,A - nom sg plen m -,,1165
+4,сижу,СИДЕТЬ,V ipf praes sg indic - 1p,,,у,ж,и,с,,,V,СИДЕТЬ,V ipf praes sg indic - 1p,,1166
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1167
+6,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1168
+7,уже...,УЖЕ...,ADV -,,,,,,е,ж,у,ADV,УЖЕ...,ADV -,,1169
+8,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1170
+9,уже,УЖЕ,ADV -,,,е,ж,у,,,,ADV,УЖЕ,ADV -,,1171
+10,понимаю,ПОНИМАТЬ,V ipf praes sg indic - 1p,,,ю,а,м,и,н,о,V,ПОНИМАТЬ,V ipf praes sg indic - 1p,,1172
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1173
+12,что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,1174
+13,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1175
+14,на,НА,PR,,,а,н,,,,,PR,НА,PR,,1176
+15,своей,СВОЙ,APRO - loc sg plen f -,,,й,е,о,в,с,,A,СВОЙ,A - loc sg plen f -,,1177
+16,территории,ТЕРРИТОРИЯ,S f inan loc sg,,,и,и,р,о,т,и,S,ТЕРРИТОРИЯ,S f inan loc sg,,1178
+17,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1179
+18,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,1180
+19,тут,ТУТ,ADV -,,,т,у,т,,,,ADV,ТУТ,ADV -,,1181
+20,сидит,СИДЕТЬ,V ipf praes sg indic - 3p,,,т,и,д,и,с,,V,СИДЕТЬ,V ipf praes sg indic - 3p,,1182
+21,мой,МОЙ,A - nom sg plen m -,,,й,о,м,,,,A,МОЙ,A - nom sg plen m -,,1183
+22,режиссёр,РЕЖИССЕР,S m-f anim nom sg,,,р,ё,с,с,и,ж,S,РЕЖИССЕР,S m anim nom sg,,1184
+23,.,.,SENT,,,,,,,,,SENT,.,SENT,,1185
+,,,,,,,,,,,,,,,,1186
+1,Он,ОН,SPRO sg 3p m nom,,,н,о,,,,,SPRO,ОН,SPRO sg 3p m nom,,1187
+2,приходит,ПРИХОДИТЬ,V ipf praes sg indic - 3p,,,т,и,д,о,х,и,V,ПРИХОДИТЬ,V ipf praes sg indic - 3p,,1188
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1189
+4,смотрит,СМОТРЕТЬ,V ipf praes sg indic - 3p,,,т,и,р,т,о,м,V,СМОТРЕТЬ,V ipf praes sg indic - 3p,,1190
+5,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1191
+6,говорит,ГОВОРИТЬ,V ipf praes sg indic - 3p,,,т,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praes sg indic - 3p,,1192
+7,:,:,PUNC,,,,,,,,,PUNC,:,PUNC,,1193
+8,,,_,,,,,,,,,,,_,7,1194
+9,И,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1195
+10,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,1196
+11,нужно...,НУЖНО...,PRAEDIC,,,,,,о,н,ж,ADV,НУЖНО...,ADV -,,1197
+12,вот,ВОТ,PARENTH,,,т,о,в,,,,PART,ВОТ,PART,,1198
+13,короче,КОРОЧЕ,PARENTH,,,е,ч,о,р,о,к,ADV,КОРОЧЕ,ADV comp,,1199
+14,чтобы,ЧТОБЫ,CONJ,,,ы,б,о,т,ч,,CONJ,ЧТОБЫ,CONJ,,1200
+15,так,ТАК,ADVPRO -,,,к,а,т,,,,ADV,ТАК,ADV -,,1201
+16,вот,ВОТ,PART,,,т,о,в,,,,PART,ВОТ,PART,,1202
+17,было,БЫТЬ,V ipf praet sg indic n -,,,о,л,ы,б,,,V,БЫТЬ,V ipf praet sg indic n -,,1203
+18,!,!,PUNC,,,,,,,,,PUNC,!,PUNC,,1204
+19,,,_,,,,,,,,,,,_,18,1205
+20,.,.,SENT,,,,,,,,,SENT,.,SENT,,1206
+,,,,,,,,,,,,,,,,1207
+1,А,А,CONJ,,,а,,,,,,CONJ,А,CONJ,,1208
+2,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1209
+3,должен,ДОЛЖНЫЙ,A - - sg brev m -,,,н,е,ж,л,о,д,A,ДОЛЖНЫЙ,A - - sg brev m -,,1210
+4,это,ЭТОТ,SPRO n - acc sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,1211
+5,конкретно,КОНКРЕТНО,ADV -,,,о,н,т,е,р,к,ADV,КОНКРЕТНО,ADV -,,1212
+6,сформулировать,СФОРМУЛИРОВАТЬ,V pf - - inf - -,,,ь,т,а,в,о,р,V,СФОРМУЛИРОВАТЬ,V pf - - inf - -,,1213
+7,.,.,SENT,,,,,,,,,SENT,.,SENT,,1214
+,,,,,,,,,,,,,,,,1215
+1,Я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1216
+2,должен,ДОЛЖНЫЙ,A - - sg brev m -,,,н,е,ж,л,о,д,A,ДОЛЖНЫЙ,A - - sg brev m -,,1217
+3,сказать,СКАЗАТЬ,V pf - - inf - -,,,ь,т,а,з,а,к,V,СКАЗАТЬ,V pf - - inf - -,,1218
+4,актёру,АКТЕР,S m anim dat sg,,,у,р,ё,т,к,а,S,АКТЕР,S m anim dat sg,,1219
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1220
+6,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,1221
+7,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1222
+8,попробуй,ПОПРОБОВАТЬ,V pf - sg imper - 2p,,,й,у,б,о,р,п,V,ПОПРОБОВАТЬ,V pf - sg imper - 2p,,1223
+9,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,1224
+10,тут,ТУТ,ADV -,,,т,у,т,,,,ADV,ТУТ,ADV -,,1225
+11,тут,ТУТ,ADV -,,,т,у,т,,,,ADV,ТУТ,ADV -,,1226
+12,помедленней,МЕДЛЕННО,ADV comp2,,,й,е,н,н,е,л,ADV,МЕДЛЕННО,ADV comp,,1227
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1228
+14,тут,ТУТ,ADV -,,,т,у,т,,,,ADV,ТУТ,ADV -,,1229
+15,поярче,ЯРКО,ADV comp2,,,е,ч,р,я,о,п,ADV,ЯРКО,ADV comp,,1230
+16,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1231
+17,может,МОЧЬ,V ipf praes sg indic - 3p,слитно: PARENTH,,т,е,ж,о,м,,V,МОЧЬ,V ipf praes sg indic - 3p,,1232
+18,быть,БЫТЬ,V ipf - - inf - -,слитно: PARENTH,,ь,т,ы,б,,,V,БЫТЬ,V ipf - - inf - -,,1233
+19,привести,ПРИВЕСТИ,V pf - - inf - -,,,и,т,с,е,в,и,V,ПРИВЕСТИ,V pf - - inf - -,,1234
+20,ему,ОН,SPRO sg 3p m dat,,,у,м,е,,,,SPRO,ОН,SPRO sg 3p m dat,,1235
+21,конкретную,КОНКРЕТНЫЙ,A - acc sg plen f -,,,ю,у,н,т,е,р,A,КОНКРЕТНЫЙ,A - acc sg plen f -,,1236
+22,ситуацию,СИТУАЦИЯ,S f inan acc sg,,,ю,и,ц,а,у,т,S,СИТУАЦИЯ,S f inan acc sg,,1237
+23,из,ИЗ,PR,,,з,и,,,,,PR,ИЗ,PR,,1238
+24,жизни,ЖИЗНЬ,S f inan gen sg,,,и,н,з,и,ж,,S,ЖИЗНЬ,S f inan loc sg,,1239
+25,.,.,SENT,,,,,,,,,SENT,.,SENT,,1240
+,,,,,,,,,,,,,,,,1241
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1242
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1243
+3,Эм,NONLEX,NONLEX,,,м,э,,,,,S,ЭМ,S n inan nonflex nonflex,,1244
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1245
+,,,,,,,,,,,,,,,,1246
+1,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,1247
+2,именно,ИМЕННО,PART,,,о,н,н,е,м,и,PART,ИМЕННО,PART,,1248
+3,.,.,SENT,,,,,,,,,SENT,.,SENT,,1249
+,,,,,,,,,,,,,,,,1250
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1251
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1252
+3,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,1253
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1254
+5,грубо,ГРУБО,ADV -,слитно: PARENTH,,о,б,у,р,г,,ADV,ГРУБО,ADV -,,1255
+6,говоря,ГОВОРИТЬ,V ipf praes - ger - -,слитно: PARENTH,,я,р,о,в,о,г,V,ГОВОРИТЬ,V ipf praes - ger - -,,1256
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1257
+8,режиссёр,РЕЖИССЕР,S m-f anim nom sg,,,р,ё,с,с,и,ж,S,РЕЖИССЕР,S m anim nom sg,,1258
+9,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1259
+10,.,.,SENT,,,,,,,,,SENT,.,SENT,,1260
+,,,,,,,,,,,,,,,,1261
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1262
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1263
+3,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,1264
+4,т,NONLEX,NONLEX,слитно,,т,,,,,,S,Т,S - - nonflex nonflex,,1265
+5,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1266
+6,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1267
+7,именно,ИМЕННО,PART,,,о,н,н,е,м,и,PART,ИМЕННО,PART,,1268
+8,модерируешь,МОДЕРИРОВАТЬ,V ipf praes sg indic - 2p,,,ь,ш,е,у,р,и,V,МОДЕРИРОВАТЬ,V ipf praes sg indic - 2p,,1269
+9,речь,РЕЧЬ,S f inan acc sg,,,ь,ч,е,р,,,S,РЕЧЬ,S f inan nom sg,,1270
+10,актёра,АКТЕР,S m anim gen sg,,,а,р,ё,т,к,а,S,АКТЕР,S m anim gen sg,,1271
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1272
+12,насколько,НАСКОЛЬКО,ADV -,,,о,к,ь,л,о,к,ADV,НАСКОЛЬКО,ADV -,,1273
+13,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1274
+14,понимаю,ПОНИМАТЬ,V ipf praes sg indic - 1p,,,ю,а,м,и,н,о,V,ПОНИМАТЬ,V ipf praes sg indic - 1p,,1275
+15,.,.,SENT,,,,,,,,,SENT,.,SENT,,1276
+,,,,,,,,,,,,,,,,1277
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1278
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1279
+3,Да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,1280
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1281
+,,,,,,,,,,,,,,,,1282
+1,Абсолютно,АБСОЛЮТНО,ADV -,,,о,н,т,ю,л,о,ADV,АБСОЛЮТНО,ADV -,,1283
+2,.,.,SENT,,,,,,,,,SENT,.,SENT,,1284
+,,,,,,,,,,,,,,,,1285
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1286
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1287
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1288
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1289
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1290
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1291
+7,,,_,,,,,,,,,,,_,8,1292
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,1293
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1294
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,1295
+11,,,_,,,,,,,,,,,_,10,1296
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1297
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1298
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1299
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1300
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1301
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1302
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,1303
+,,,,,,,,,,,,,,,,1304
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1305
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1306
+3,Всё,ВЕСЬ,SPRO sg 3p n acc,,,ё,с,в,,,,ADV,ВСЕ,ADV -,,1307
+4,до,ДО,PR,,,о,д,,,,,PR,ДО,PR,,1308
+5,мелочей,МЕЛОЧЬ,S f inan gen pl,,,й,е,ч,о,л,е,S,МЕЛОЧЬ,S f inan gen pl,,1309
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1310
+7,до,ДО,PR,,,о,д,,,,,PR,ДО,PR,,1311
+8,конкретных,КОНКРЕТНЫЙ,A - gen pl plen - -,,,х,ы,н,т,е,р,A,КОНКРЕТНЫЙ,A - loc pl plen - -,,1312
+9,каких-то,КАКОЙ-ТО,APRO - gen pl plen - -,,,о,т,,х,и,к,A,КАКОЙ-ТО,A - loc pl plen - -,,1313
+10,...,...,SENT,,,,,,,,,SENT,...,SENT,,1314
+,,,,,,,,,,,,,,,,1315
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1316
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1317
+3,Мимических,МИМИЧЕСКИЙ,A - gen pl plen - -,,,х,и,к,с,е,ч,A,МИМИЧЕСКИЙ,A - loc pl plen - -,,1318
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1319
+,,,,,,,,,,,,,,,,1320
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1321
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1322
+3,Не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,1323
+4,мимических,МИМИЧЕСКИЙ,A - gen pl plen - -,,,х,и,к,с,е,ч,A,МИМИЧЕСКИЙ,A - loc pl plen - -,,1324
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1325
+6,нет,НЕТ,PRAEDIC,,,т,е,н,,,,PART,НЕТ,PART,,1326
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1327
+8,мимические,МИМИЧЕСКИЙ,A - nom pl plen - -,,,е,и,к,с,е,ч,A,МИМИЧЕСКИЙ,A - nom pl plen - -,,1328
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1329
+10,это,ЭТОТ,SPRO n - acc sg,,,о,т,э,,,,PART,ЭТО,PART,,1330
+11,мы,МЫ,SPRO pl 1p - nom,,,ы,м,,,,,SPRO,МЫ,SPRO pl 1p - nom,,1331
+12,записываем,ЗАПИСЫВАТЬ,V ipf praes pl indic - 1p,,,м,е,а,в,ы,с,V,ЗАПИСЫВАТЬ,V ipf praes pl indic - 1p,,1332
+13,.,.,SENT,,,,,,,,,SENT,.,SENT,,1333
+,,,,,,,,,,,,,,,,1334
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1335
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1336
+3,Артикуляционных,АРТИКУЛЯЦИОННЫЙ,A - gen pl plen - -,,,х,ы,н,н,о,и,A,АРТИКУЛЯЦИОННЫЙ,A - loc pl plen - -,,1337
+4,?,?,SENT,,,,,,,,,SENT,?,SENT,,1338
+,,,,,,,,,,,,,,,,1339
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1340
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1341
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1342
+4,как,КАК,CONJ,,,к,а,к,,,,CONJ,КАК,CONJ,,1343
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1344
+6,артикуляция,АРТИКУЛЯЦИЯ,S f inan nom sg,,,я,и,ц,я,л,у,S,АРТИКУЛЯЦИЯ,S f inan nom sg,,1345
+7,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,1346
+8,же,ЖЕ,PART,,,е,ж,,,,,PART,ЖЕ,PART,,1347
+9,...,...,SENT,,,,,,,,,SENT,...,SENT,,1348
+,,,,,,,,,,,,,,,,1349
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1350
+2,да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,1351
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1352
+4,по,ПО,PR,слитно: ADV -,,о,п,,,,,PR,ПО,PR,,1353
+5,сути,СУТЬ,S f inan dat sg,слитно: ADV -,,и,т,у,с,,,S,СУТЬ,S f inan dat sg,,1354
+6,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,1355
+7,артикуляционных,АРТИКУЛЯЦИОННЫЙ,A - gen pl plen - -,,,х,ы,н,н,о,и,A,АРТИКУЛЯЦИОННЫЙ,A - gen pl plen - -,,1356
+8,там,ТАМ,ADV -,,,м,а,т,,,,ADV,ТАМ,ADV -,,1357
+9,вещей,ВЕЩЬ,S f inan gen pl,,,й,е,щ,е,в,,S,ВЕЩЬ,S f inan gen pl,,1358
+10,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1359
+11,до,ДО,PR,,,о,д,,,,,PR,ДО,PR,,1360
+12,общего,ОБЩИЙ,A - gen sg plen n -,,,о,г,е,щ,б,о,A,ОБЩИЙ,A - gen sg plen n -,,1361
+13,настроения,НАСТРОЕНИЕ,S n inan gen sg,,,я,и,н,е,о,р,S,НАСТРОЕНИЕ,S n inan gen sg,,1362
+14,.,.,SENT,,,,,,,,,SENT,.,SENT,,1363
+,,,,,,,,,,,,,,,,1364
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1365
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1366
+3,Интонационных,ИНТОНАЦИОННЫЙ,A - gen pl plen - -,,,х,ы,н,н,о,и,A,ИНТОНАЦИОННЫЙ,A - loc pl plen - -,,1367
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1368
+5,вот,ВОТ,INTJ,,,т,о,в,,,,PART,ВОТ,PART,,1369
+6,.,.,SENT,,,,,,,,,SENT,.,SENT,,1370
+,,,,,,,,,,,,,,,,1371
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1372
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1373
+3,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,1374
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1375
+5,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1376
+6,просто,ПРОСТО,PART,,,о,т,с,о,р,п,PART,ПРОСТО,PART,,1377
+7,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,1378
+8,...,...,SENT,,,,,,,,,SENT,...,SENT,,1379
+,,,,,,,,,,,,,,,,1380
+1,Вот,ВОТ,PARENTH,,,т,о,в,,,,PART,ВОТ,PART,,1381
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1382
+3,например,НАПРИМЕР,PARENTH,,,р,е,м,и,р,п,ADV,НАПРИМЕР,ADV -,,1383
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1384
+5,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1385
+6,тебе,ТЫ,SPRO sg 2p - dat,,,е,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - loc,,1386
+7,приведу,ПРИВЕСТИ,V pf fut sg indic - 1p,,,у,д,е,в,и,р,V,ПРИВЕСТИ,V pf fut sg indic - 1p,,1387
+8,пример,ПРИМЕР,S m inan nom sg,,,р,е,м,и,р,п,S,ПРИМЕР,S m inan nom sg,,1388
+9,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1389
+10,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1390
+11,сразу,СРАЗУ,ADV -,,,у,з,а,р,с,,ADV,СРАЗУ,ADV -,,1391
+12,поймешь,ПОНЯТЬ,V pf fut sg indic - 2p,,,ь,ш,е,м,й,о,V,ПОНЯТЬ,V pf fut sg indic - 2p,,1392
+13,.,.,SENT,,,,,,,,,SENT,.,SENT,,1393
+,,,,,,,,,,,,,,,,1394
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1395
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1396
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1397
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1398
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1399
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1400
+7,,,_,,,,,,,,,,,_,8,1401
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,1402
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1403
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,1404
+11,,,_,,,,,,,,,,,_,10,1405
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1406
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1407
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1408
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1409
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1410
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1411
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,1412
+,,,,,,,,,,,,,,,,1413
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1414
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1415
+3,У,У,PR,,,у,,,,,,PR,У,PR,,1416
+4,нас,МЫ,SPRO pl 1p - gen,,,с,а,н,,,,SPRO,МЫ,SPRO pl 1p - loc,,1417
+5,там,ТАМ,ADV -,,,м,а,т,,,,ADV,ТАМ,ADV -,,1418
+6,в,В,PR,,,в,,,,,,PR,В,PR,,1419
+7,одной,ОДИН,NUM loc sg f,,,й,о,н,д,о,,A,ОДИН,A - loc sg plen f -,,1420
+8,сцене,СЦЕНА,S f inan loc sg,,,е,н,е,ц,с,,S,СЦЕНА,S f inan loc sg,,1421
+9,фильма,ФИЛЬМ,S m inan gen sg,,,а,м,ь,л,и,ф,S,ФИЛЬМ,S m inan gen sg,,1422
+10,(,(,PUNC,,,,,,,,,PUNC,(,PUNC,,1423
+11,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1424
+12,кстати,КСТАТИ,PARENTH,,,и,т,а,т,с,к,ADV,КСТАТИ,ADV -,,1425
+13,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1426
+14,может,МОЧЬ,PARENTH,,,т,е,ж,о,м,,V,МОЧЬ,V ipf praes sg indic - 3p,,1427
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1428
+16,тебе,ТЫ,SPRO sg 2p - dat,,,е,б,е,т,,,SPRO,ТЫ,SPRO sg 2p - loc,,1429
+17,его,ОН,SPRO sg 3p m acc,,,о,г,е,,,,SPRO,ОН,SPRO sg 3p m acc,,1430
+18,сейчас,СЕЙЧАС,ADV -,,,с,а,ч,й,е,с,ADV,СЕЙЧАС,ADV -,,1431
+19,покажу,ПОКАЗАТЬ,V pf fut sg indic - 1p,,,у,ж,а,к,о,п,V,ПОКАЗАТЬ,V pf fut sg indic - 1p,,1432
+20,),),PUNC,,,,,,,,,PUNC,),PUNC,,1433
+21,эээ,ЭЭЭ,NONLEX,,,э,э,э,,,,NONLEX,ЭЭЭ,NONLEX,,1434
+22,актёр,АКТЕР,S m anim nom sg,,,р,ё,т,к,а,,S,АКТЕР,S m anim nom sg,,1435
+23,должен,ДОЛЖНЫЙ,A - - sg brev m -,,,н,е,ж,л,о,д,A,ДОЛЖНЫЙ,A - - sg brev m -,,1436
+24,был,БЫТЬ,V ipf praet sg indic m -,,,л,ы,б,,,,V,БЫТЬ,V ipf praet sg indic m -,,1437
+25,истерить,ИСТЕРИТЬ,V ipf - - inf - -,,,ь,т,и,р,е,т,V,ИСТЕРИТЬ,V ipf - - inf - -,,1438
+26,.,.,SENT,,,,,,,,,SENT,.,SENT,,1439
+,,,,,,,,,,,,,,,,1440
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1441
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1442
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1443
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1444
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1445
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1446
+7,,,_,,,,,,,,,,,_,8,1447
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,1448
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1449
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,1450
+11,,,_,,,,,,,,,,,_,10,1451
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1452
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1453
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1454
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1455
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1456
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1457
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,1458
+,,,,,,,,,,,,,,,,1459
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1460
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1461
+3,То есть,То есть,CONJ,,,ь,т,с,е,,о,-,То есть,-,,1462
+4,у,У,PR,,,у,,,,,,PR,У,PR,,1463
+5,него,ОН,SPRO sg 3p m gen,,,о,г,е,н,,,SPRO,ОН,SPRO sg 3p m acc,,1464
+6,было,БЫТЬ,V ipf praet sg indic n -,,,о,л,ы,б,,,V,БЫТЬ,V ipf praet sg indic n -,,1465
+7,там,ТАМ,ADV -,,,м,а,т,,,,ADV,ТАМ,ADV -,,1466
+8,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1467
+9,грубо,ГРУБО,ADV -,слитно: PARENTH,,о,б,у,р,г,,ADV,ГРУБО,ADV -,,1468
+10,говоря,ГОВОРИТЬ,V ipf praes - ger - -,слитно: PARENTH,,я,р,о,в,о,г,V,ГОВОРИТЬ,V ipf praes - ger - -,,1469
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1470
+12,предала,ПРЕДАТЬ,V pf praet sg indic f -,,,а,л,а,д,е,р,V,ПРЕДАТЬ,V pf praet sg indic f -,,1471
+13,девушка,ДЕВУШКА,S f anim nom sg,,,а,к,ш,у,в,е,S,ДЕВУШКА,S f anim nom sg,,1472
+14,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1473
+15,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1474
+16,он,ОН,SPRO sg 3p m nom,,,н,о,,,,,SPRO,ОН,SPRO sg 3p m nom,,1475
+17,врывается,ВРЫВАТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,е,а,в,V,ВРЫВАТЬСЯ,V ipf praes sg indic - 3p,,1476
+18,короче,КОРОЧЕ,PARENTH,,,е,ч,о,р,о,к,ADV,КОРОЧЕ,ADV comp,,1477
+19,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1478
+20,у,У,PR,,,у,,,,,,PR,У,PR,,1479
+21,него,ОН,SPRO sg 3p m gen,,,о,г,е,н,,,SPRO,ОН,SPRO sg 3p m acc,,1480
+22,истерика,ИСТЕРИКА,S f inan nom sg,PRAEDIC,,а,к,и,р,е,т,S,ИСТЕРИК,S f inan nom sg,,1481
+23,.,.,SENT,,,,,,,,,SENT,.,SENT,,1482
+,,,,,,,,,,,,,,,,1483
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1484
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1485
+3,причём,ПРИЧЕМ,CONJ,,,м,ё,ч,и,р,п,CONJ,ПРИЧЕМ,CONJ,,1486
+4,он,ОН,SPRO sg 3p m nom,,,н,о,,,,,SPRO,ОН,SPRO sg 3p m nom,,1487
+5,такой,ТАКОЙ,APRO - nom sg plen m -,,,й,о,к,а,т,,A,ТАКОЙ,A - nom sg plen m -,,1488
+6,сам,САМ,ADVPRO -,слитно: ADV -,,м,а,с,,,,A,САМ,A - nom sg plen m -,,1489
+7,по,ПО,PR,слитно: ADV -,,о,п,,,,,PR,ПО,PR,,1490
+8,себе,СЕБЯ,SPRO - - - loc,слитно: ADV -,,е,б,е,с,,,SPRO,СЕБЯ,SPRO - - - loc,,1491
+9,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,1492
+10,очень,ОЧЕНЬ,ADV -,,,ь,н,е,ч,о,,ADV,ОЧЕНЬ,ADV -,,1493
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1494
+12,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,1495
+13,ни,НИ,PART,слитно,,и,н,,,,,PART,НИ,PART,,1496
+14,во,ВО,PR,,,о,в,,,,,PR,ВО,PR,,1497
+15,что,ЧТО,SPRO sg - - acc,слитно,,о,т,ч,,,,S,ЧТО,S n - acc sg,,1498
+16,конкретно,КОНКРЕТНО,ADV -,,,о,н,т,е,р,к,ADV,КОНКРЕТНО,ADV -,,1499
+17,не,НЕ,PART,,,е,н,,,,,PART,НЕ,PART,,1500
+18,вылезает,ВЫЛЕЗАТЬ,V ipf praes sg indic - 3p,,,т,е,а,з,е,л,V,ВЫЛЕЗАТЬ,V ipf praes sg indic - 3p,,1501
+19,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1502
+20,.,.,SENT,,,,,,,,,SENT,.,SENT,,1503
+,,,,,,,,,,,,,,,,1504
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1505
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1506
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1507
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1508
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1509
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1510
+7,,,_,,,,,,,,,,,_,8,1511
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,1512
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1513
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,1514
+11,,,_,,,,,,,,,,,_,10,1515
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1516
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1517
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1518
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1519
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1520
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1521
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,1522
+,,,,,,,,,,,,,,,,1523
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1524
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1525
+3,Но,НО,CONJ,,,о,н,,,,,CONJ,НО,CONJ,,1526
+4,это,ЭТОТ,SPRO n - nom sg,,,о,т,э,,,,S,ЭТО,S n - nom sg,,1527
+5,вот,ВОТ,ADVPRO -,,,т,о,в,,,,PART,ВОТ,PART,,1528
+6,пустая,ПУСТОЙ,A - nom sg plen f -,,,я,а,т,с,у,п,A,ПУСТОЙ,A - nom sg plen f -,,1529
+7,агрессия,АГРЕССИЯ,S f inan nom sg,,,я,и,с,с,е,р,S,АГРЕССИЯ,S f inan nom sg,,1530
+8,в,В,PR,,,в,,,,,,PR,В,PR,,1531
+9,пустоту,ПУСТОТА,S f inan acc sg,,,у,т,о,т,с,у,S,ПУСТОТА,S f inan acc sg,,1532
+10,.,.,SENT,,,,,,,,,SENT,.,SENT,,1533
+,,,,,,,,,,,,,,,,1534
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1535
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1536
+3,У,NONLEX,NONLEX,,,у,,,,,,S,У,S - - nonflex nonflex,,1537
+4,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1538
+5,блять,БЛЯТЬ,INTJ,,,ь,т,я,л,б,,V,БЛЯТЬ,V ipf - - inf - -,,1539
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1540
+7,пустая,ПУСТОЙ,A - nom sg plen f -,,,я,а,т,с,у,п,A,ПУСТОЙ,A - nom sg plen f -,,1541
+8,агрессия,АГРЕССИЯ,S f inan nom sg,,,я,и,с,с,е,р,S,АГРЕССИЯ,S f inan nom sg,,1542
+9,в,В,PR,,,в,,,,,,PR,В,PR,,1543
+10,пустоту,ПУСТОТА,S f inan acc sg,,,у,т,о,т,с,у,S,ПУСТОТА,S f inan acc sg,,1544
+11,.,.,SENT,,,,,,,,,SENT,.,SENT,,1545
+,,,,,,,,,,,,,,,,1546
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1547
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1548
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1549
+4,да,ДА,PART,,,а,д,,,,,CONJ,ДА,CONJ,,1550
+5,.,.,SENT,,,,,,,,,SENT,.,SENT,,1551
+,,,,,,,,,,,,,,,,1552
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1553
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1554
+3,Пустая,ПУСТОЙ,A - nom sg plen f -,,,я,а,т,с,у,п,A,ПУСТОЙ,A - nom sg plen f -,,1555
+4,агрессия,АГРЕССИЯ,S f inan nom sg,,,я,и,с,с,е,р,S,АГРЕССИЯ,S f inan nom sg,,1556
+5,в,В,PR,,,в,,,,,,PR,В,PR,,1557
+6,воздух,ВОЗДУХ,S m inan acc sg,,,х,у,д,з,о,в,S,ВОЗДУХ,S m inan acc sg,,1558
+7,.,.,SENT,,,,,,,,,SENT,.,SENT,,1559
+,,,,,,,,,,,,,,,,1560
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1561
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1562
+3,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1563
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1564
+,,,,,,,,,,,,,,,,1565
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1566
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1567
+3,И,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1568
+4,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1569
+5,просто,ПРОСТО,PART,,,о,т,с,о,р,п,PART,ПРОСТО,PART,,1570
+6,сказал,СКАЗАТЬ,V pf praet sg indic m -,,,л,а,з,а,к,с,V,СКАЗАТЬ,V pf praet sg indic m -,,1571
+7,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1572
+8,что,ЧТО,CONJ,,,о,т,ч,,,,CONJ,ЧТО,CONJ,,1573
+9,типа...,ТИПА,PART,PARENTH,,,,,а,п,и,S,ТИП...,S m inan gen sg,,1574
+10,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1575
+11,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1576
+12,к,К,PR,,,к,,,,,,PR,К,PR,,1577
+13,режиссёру,РЕЖИССЕР,S m-f anim dat sg,,,у,р,ё,с,с,и,S,РЕЖИССЕР,S m anim dat sg,,1578
+14,подошел,ПОДОЙТИ,V pf praet sg indic m -,,,л,е,ш,о,д,о,V,ПОДОЙТИ,V pf praet sg indic m -,,1579
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1580
+16,говорю,ГОВОРИТЬ,V ipf praes sg indic - 1p,,,ю,р,о,в,о,г,V,ГОВОРИТЬ,V ipf praes sg indic - 1p,,1581
+17,:,:,PUNC,,,,,,,,,PUNC,:,PUNC,,1582
+18,,,_,,,,,,,,,,,_,19,1583
+19,Ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1584
+20,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,1585
+21,даешь,ДАВАТЬ,V ipf praes sg indic - 2p,,,ь,ш,е,а,д,,V,ДАВАТЬ,V ipf praes sg indic - 2p,,1586
+22,карт-бланш,КАРТ-БЛАНШ,S m inan acc sg,,,ш,н,а,л,б,,S,КАРТ-БЛАНШ,S m inan acc sg,,1587
+23,?,?,PUNC,,,,,,,,,PUNC,?,PUNC,,1588
+24,,,SENT,,,,,,,,,,,SENT,23,1589
+,,,,,,,,,,,,,,,,1590
+1,Он,ОН,SPRO sg 3p m nom,,,н,о,,,,,SPRO,ОН,SPRO sg 3p m nom,,1591
+2,говорит,ГОВОРИТЬ,V ipf praes sg indic - 3p,,,т,и,р,о,в,о,V,ГОВОРИТЬ,V ipf praes sg indic - 3p,,1592
+3,:,:,PUNC,,,,,,,,,PUNC,:,PUNC,,1593
+4,,,_,,,,,,,,,,,_,5,1594
+5,Да,ДА,PART,,,а,д,,,,,CONJ,ДА,CONJ,,1595
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1596
+7,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1597
+8,даю,ДАВАТЬ,V ipf praes sg indic - 1p,,,ю,а,д,,,,V,ДАВАТЬ,V ipf praes sg indic - 1p,,1598
+9,карт-бланш,КАРТ-БЛАНШ,S m inan acc sg,,,ш,н,а,л,б,,S,КАРТ-БЛАНШ,S m inan acc sg,,1599
+10,,,_,,,,,,,,,,,_,9,1600
+11,.,.,SENT,,,,,,,,,SENT,.,SENT,,1601
+,,,,,,,,,,,,,,,,1602
+1,Я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1603
+2,говорю,ГОВОРИТЬ,V ipf praes sg indic - 1p,,,ю,р,о,в,о,г,V,ГОВОРИТЬ,V ipf praes sg indic - 1p,,1604
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1605
+4,типа,ТИПА,PART,PARENTH,,а,п,и,т,,,S,ТИП,S m inan gen sg,,1606
+5,...,...,SENT,,,,,,,,,SENT,...,SENT,,1607
+,,,,,,,,,,,,,,,,1608
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1609
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1610
+3,смотри,СМОТРЕТЬ,V ipf - sg imper - 2p,PARENTH,,и,р,т,о,м,с,V,СМОТРЕТЬ,V ipf - sg imper - 2p,,1611
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1612
+,,,,,,,,,,,,,,,,1613
+1,Короче,КОРОЧЕ,PARENTH,,,е,ч,о,р,о,к,ADV,КОРОЧЕ,ADV comp,,1614
+2,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1615
+3,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1616
+4,взял,ВЗЯТЬ,V pf praet sg indic m -,,,л,я,з,в,,,V,ВЗЯТЬ,V pf praet sg indic m -,,1617
+5,актёра,АКТЕР,S m anim acc sg,,,а,р,ё,т,к,а,S,АКТЕР,S m anim acc sg,,1618
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1619
+7,говорю,ГОВОРИТЬ,V ipf praes sg indic - 1p,,,ю,р,о,в,о,г,V,ГОВОРИТЬ,V ipf praes sg indic - 1p,,1620
+8,:,:,PUNC,,,,,,,,,PUNC,:,PUNC,,1621
+9,,,_,,,,,,,,,,,_,8,1622
+10,Слушай,СЛУШАТЬ,V ipf - sg imper - 2p,PARENTH,,й,а,ш,у,л,с,V,СЛУШАТЬ,V ipf - sg imper - 2p,,1623
+11,.,.,SENT,,,,,,,,,SENT,.,SENT,,1624
+,,,,,,,,,,,,,,,,1625
+1,Вот,ВОТ,PARENTH,,,т,о,в,,,,PART,ВОТ,PART,,1626
+2,смотри,СМОТРЕТЬ,V ipf - sg imper - 2p,PARENTH,,и,р,т,о,м,с,V,СМОТРЕТЬ,V ipf - sg imper - 2p,,1627
+3,.,.,SENT,,,,,,,,,SENT,.,SENT,,1628
+,,,,,,,,,,,,,,,,1629
+1,Вот,ВОТ,PART,,,т,о,в,,,,PART,ВОТ,PART,,1630
+2,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1631
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1632
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1633
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1634
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1635
+7,,,_,,,,,,,,,,,_,8,1636
+8,щас,СЕЙЧАС,ADV -,distort,,с,а,щ,,,,ADV,ЩАС,ADV -,,1637
+9,,,_,,,,,,,,,,,_,8,1638
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1639
+11,сейчас,СЕЙЧАС,ADV -,,,с,а,ч,й,е,с,ADV,СЕЙЧАС,ADV -,,1640
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1641
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1642
+14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1643
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1644
+16,короче,КОРОЧЕ,PARENTH,,,е,ч,о,р,о,к,ADV,КОРОЧЕ,ADV comp,,1645
+17,прижимаешь,ПРИЖИМАТЬ,V ipf praes sg indic - 2p,,,ь,ш,е,а,м,и,V,ПРИЖИМАТЬ,V ipf praes sg indic - 2p,,1646
+18,руки,РУКА,S f inan acc pl,,,и,к,у,р,,,S,РУКА,S f inan acc pl,,1647
+19,к,К,PR,,,к,,,,,,PR,К,PR,,1648
+20,бокам,БОК,S m inan dat pl,,,м,а,к,о,б,,S,БОК,S m inan dat pl,,1649
+21,.,.,SENT,,,,,,,,,SENT,.,SENT,,1650
+,,,,,,,,,,,,,,,,1651
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1652
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1653
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1654
+4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1655
+5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX,,1656
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1657
+7,,,_,,,,,,,,,,,_,8,1658
+8,М,NONLEX,INTJ,,,м,,,,,,S,М,S f inan nonflex nonflex,,1659
+9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC,,1660
+10,гм,ГМ,INTJ,,,м,г,,,,,INTJ,ГМ,INTJ,,1661
+11,,,_,,,,,,,,,,,_,10,1662
+12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1663
+13,Ага,АГА,INTJ,,,а,г,а,,,,PART,АГА,PART,,1664
+14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1665
+15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1666
+16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX,,1667
+17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1668
+18,.,.,SENT,,,,,,,,,SENT,.,SENT,,1669
+,,,,,,,,,,,,,,,,1670
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1671
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1672
+3,И,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1673
+4,я...,Я...,SPRO sg 1p - nom,,,,,,я,,,SPRO,Я...,SPRO sg 1p - nom,,1674
+5,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1675
+6,если,ЕСЛИ,CONJ,,,и,л,с,е,,,CONJ,ЕСЛИ,CONJ,,1676
+7,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1677
+8,их,ОНИ,SPRO pl - - acc,,,х,и,,,,,SPRO,ОНИ,SPRO pl - - acc,,1678
+9,отрываешь,ОТРЫВАТЬ,V ipf praes sg indic - 2p,,,ь,ш,е,а,в,ы,V,ОТРЫВАТЬ,V ipf praes sg indic - 2p,,1679
+10,от,ОТ,PR,,,т,о,,,,,PR,ОТ,PR,,1680
+11,боков,БОК,S m inan gen pl,,,в,о,к,о,б,,S,БОК,S m inan gen pl,,1681
+12,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1682
+13,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1683
+14,как,КАК,INTJ,,,к,а,к,,,,CONJ,КАК,CONJ,,1684
+15,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1685
+16,по,ПО,PR,,,о,п,,,,,PR,ПО,PR,,1686
+17,швам,ШОВ,S m inan dat pl,,,м,а,в,ш,,,S,ШОВ,S m inan dat pl,,1687
+18,;,;,SENT,,,,,,,,,SENT,;,SENT,,1688
+,,,,,,,,,,,,,,,,1689
+1,ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1690
+2,да,ДА,INTJ,,,а,д,,,,,CONJ,ДА,CONJ,,1691
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1692
+4,по,ПО,PR,,,о,п,,,,,PR,ПО,PR,,1693
+5,швам,ШОВ,S m inan dat pl,,,м,а,в,ш,,,S,ШОВ,S m inan dat pl,,1694
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1695
+7,по,ПО,PR,,,о,п,,,,,PR,ПО,PR,,1696
+8,бокам...,БОК,S m inan dat pl,,,,,,м,а,к,S,БОК...,S m inan gen sg,,1697
+9,ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1698
+10,мне,Я,SPRO sg 1p - dat,,,е,н,м,,,,SPRO,Я,SPRO sg 1p - loc,,1699
+11,платишь,ПЛАТИТЬ,V ipf praes sg indic - 2p,,,ь,ш,и,т,а,л,V,ПЛАТИТЬ,V ipf praes sg indic - 2p,,1700
+12,тысячу,ТЫСЯЧА,S f inan acc sg,,,у,ч,я,с,ы,т,S,ТЫСЯЧА,S f inan acc sg,,1701
+13,.,.,SENT,,,,,,,,,SENT,.,SENT,,1702
+,,,,,,,,,,,,,,,,1703
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m inan nom sg,,1704
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1705
+3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1706
+4,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,1707
+5,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX,,1708
+6,#ERROR!,#ERROR!,PUNC,,,,,,,,,PUNC,#ERROR!,PUNC,,1709
+7,,,_,,,,,,,,,,,_,8,1710
+8,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX,,1711
+9,,,_,,,,,,,,,,,_,8,1712
+10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1713
+11,Смеётся,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,,я,с,т,ё,е,м,V,СМЕЯТЬСЯ,V ipf praes sg indic - 3p,,1714
+12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1715
+13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1716
+14,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX,,1717
+15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1718
+16,Сука,СУКА,INTJ,,,а,к,у,с,,,S,СУКА,S f anim nom sg,,1719
+17,!,!,SENT,,,,,,,,,SENT,!,SENT,,1720
+,,,,,,,,,,,,,,,,1721
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1722
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1723
+3,Ты,ТЫ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,ТЫ,SPRO sg 2p - nom,,1724
+4,понял,ПОНЯТЬ,V pf praet sg indic m -,,,л,я,н,о,п,,V,ПОНЯТЬ,V pf praet sg indic m -,,1725
+5,уже,УЖЕ,ADV -,,,е,ж,у,,,,ADV,УЖЕ,ADV -,,1726
+6,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1727
+7,да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,1728
+8,?,?,SENT,,,,,,,,,SENT,?,SENT,,1729
+,,,,,,,,,,,,,,,,1730
+1,Арсений,АРСЕНИЙ,S m anim persn nom sg,,,й,и,н,е,с,р,S,АРСЕНИЙ,S m anim nom sg,,1731
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1732
+3,Да,ДА,PART,,,а,д,,,,,PART,ДА,PART,,1733
+4,.,.,SENT,,,,,,,,,SENT,.,SENT,,1734
+,,,,,,,,,,,,,,,,1735
+1,Гриша,ГРИША,S m anim persn nom sg,,,а,ш,и,р,г,,S,ГРИША,S m anim nom sg,,1736
+2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC,,1737
+3,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1738
+4,и,И,CONJ,,,и,,,,,,CONJ,И,CONJ,,1739
+5,я,Я,SPRO sg 1p - nom,,,я,,,,,,SPRO,Я,SPRO sg 1p - nom,,1740
+6,просто,ПРОСТО,PART,,,о,т,с,о,р,п,PART,ПРОСТО,PART,,1741
+7,начал,НАЧАТЬ,V pf praet sg indic m -,,,л,а,ч,а,н,,S,НАЧАЛО,S n inan gen pl,,1742
+8,его,ОН,SPRO sg 3p m acc,,,о,г,е,,,,SPRO,ОН,SPRO sg 3p m acc,,1743
+9,пиздить,ПИЗДИТЬ,V ipf - - inf - -,,,ь,т,и,д,з,и,V,ПИЗДИТЬ,V ipf - - inf - -,,1744
+10,.,.,SENT,,,,,,,,,SENT,.,SENT,,1745
+,,,,,,,,,,,,,,,,1746
+1,Ну,НУ,PART,,,у,н,,,,,PART,НУ,PART,,1747
+2,так,ТАК,ADVPRO -,,,к,а,т,,,,ADV,ТАК,ADV -,,1748
+3,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1749
+4,блин,БЛИН,INTJ,,,н,и,л,б,,,S,БЛИН,S m inan nom sg,,1750
+5,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1751
+6,естественно,ЕСТЕСТВЕННО,INTJ,,,о,н,н,е,в,т,ADV,ЕСТЕСТВЕННО,ADV -,,1752
+7,ээ,ЭЭ,NONLEX,,,э,э,,,,,NONLEX,ЭЭ,NONLEX,,1753
+8,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1754
+9,ничего,НИЧТО,S n - gen sg,,,о,г,е,ч,и,н,S,НИЧТО,S n - gen sg,,1755
+10,такого,ТАКОЙ,APRO - gen sg plen m -,,,о,г,о,к,а,т,A,ТАКОЙ,A - gen sg plen m -,,1756
+11,там,ТАМ,ADV -,,,м,а,т,,,,ADV,ТАМ,ADV -,,1757
+12,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1758
+13,ещё,ЕЩЕ,ADV -,,,ё,щ,е,,,,ADV,ЕЩЕ,ADV -,,1759
+14,подошёл,ПОДОЙТИ,V pf praet sg indic m -,,,л,ё,ш,о,д,о,V,ПОДОЙТИ,V pf praet sg indic m -,,1760
+15,режиссёр,РЕЖИССЕР,S m-f anim nom sg,,,р,ё,с,с,и,ж,S,РЕЖИССЕР,S m anim nom sg,,1761
+16,",",",",PUNC,,,,,,,,,PUNC,",",PUNC,,1762
+17,начал,НАЧАТЬ,V pf praet sg indic m -,,,л,а,ч,а,н,,S,НАЧАЛО,S n inan gen pl,,1763
+18,ему,ОН,SPRO sg 3p m dat,,,у,м,е,,,,SPRO,ОН,SPRO sg 3p m dat,,1764
+19,по,ПО,PR,,,о,п,,,,,PR,ПО,PR,,1765
+20,щекам,ЩЕКА,S f inan dat pl,,,м,а,к,е,щ,,S,ЩЕКА,S f inan dat pl,,1766
+21,давать,ДАВАТЬ,V ipf - - inf - -,,,ь,т,а,в,а,д,V,ДАВАТЬ,V ipf - - inf - -,,1767
+22,пощёчины,ПОЩЕЧИНА,S f inan acc pl,,,ы,н,и,ч,ё,щ,S,ПОЩЕЧИНА,S f inan acc pl,,1768
+23,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1769
+24,noindex,NOINDEX,NONLEX,,,,,,,,,NONLEX,NOINDEX,NONLEX,,1770
+25,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1771
+26,[,[,PUNC,,,,,,,,,PUNC,[,PUNC,,1772
+27,нрзб,НРЗБ,NONLEX,,,б,з,р,н,,,NONLEX,НРЗБ,NONLEX,,1773
+28,],],PUNC,,,,,,,,,PUNC,],PUNC,,1774
+29,<,<,PUNC,,,,,,,,,PUNC,<,PUNC,,1775
+30,/,/,PUNC,,,,,,,,,PUNC,/,PUNC,,1776
+31,noindex,NOINDEX,NONLEX,,,,,,,,,NONLEX,NOINDEX,NONLEX,,1777
+32,>,>,PUNC,,,,,,,,,PUNC,>,PUNC,,1778
+33,сука,СУКА,INTJ,,,а,к,у,с,,,S,СУКА,S f anim nom sg,,1779
+34,.,.,SENT,,,,,,,,,SENT,.,SENT,,1780
+#,FORM,LEMMA,GRAM,COMMENT,CHECKED,RIGHT1,RIGHT2,RIGHT3,RIGHT4,RIGHT5,RIGHT6,POS,AUTO_LEMMA,AUTO_GRAM,,
